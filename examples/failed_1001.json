@@ -1,0 +1,6 @@
+{
+  "code": 1001,
+  "credits": 0,
+  "msg": "check_params error: required param[query] not exists.",
+  "tip": "You can read document or contact provider: https://www.idatariver.com/zh-cn/project/douyin-e-commerce-api-e5f8"
+}

@@ -1,0 +1,3874 @@
+{
+  "code": 0,
+  "credits": 0.015,
+  "result": {
+    "ecNetRequestEnd": 1711013121567,
+    "fromCache": false,
+    "logPb": {
+      "imprId": "2024032117252039C0F9BEB1D6A79F1980"
+    },
+    "message": "",
+    "mini": false,
+    "parsedDTO": {
+      "actionGroup": {
+        "LIZ": {
+          "data": {
+            "type": "Group"
+          },
+          "hasDynamicProp": false
+        }
+      },
+      "bottomButton": {
+        "_sliceType": "PdpVO",
+        "componentId": "id_bottom_button",
+        "isFooter": false,
+        "isHeader": false,
+        "isHide": false,
+        "itemKey": 36,
+        "tags": {},
+        "track": {
+          "members": {}
+        },
+        "ui": {
+          "containerType": "native"
+        },
+        "version": 1,
+        "vo": {
+          "display": {
+            "members": {
+              "left_items": {
+                "members": {
+                  "button_list": {
+                    "elements": [
+                      {
+                        "members": {
+                          "action": {
+                            "members": {
+                              "id": {
+                                "value": "action_enter_shop"
+                              }
+                            }
+                          },
+                          "background": {
+                            "members": {
+                              "background_color": {
+                                "value": "#00000000"
+                              }
+                            }
+                          },
+                          "button_type": {
+                            "value": {
+                              "value": "1"
+                            }
+                          },
+                          "content": {
+                            "members": {
+                              "font_style": {
+                                "members": {
+                                  "font_size": {
+                                    "value": {
+                                      "value": "10"
+                                    }
+                                  },
+                                  "font_weight": {
+                                    "value": {
+                                      "value": "400"
+                                    }
+                                  },
+                                  "line": {
+                                    "value": {
+                                      "value": "1"
+                                    }
+                                  },
+                                  "text_color": {
+                                    "value": "#99161823"
+                                  }
+                                }
+                              },
+                              "text": {
+                                "value": "进店"
+                              }
+                            }
+                          },
+                          "icon": {
+                            "members": {
+                              "border": {
+                                "members": {
+                                  "border_color": {
+                                    "value": "#FFF3F3F4"
+                                  },
+                                  "border_width": {
+                                    "value": {
+                                      "value": "1"
+                                    }
+                                  }
+                                }
+                              },
+                              "round_corner": {
+                                "value": {
+                                  "value": "11"
+                                }
+                              },
+                              "url_model": {
+                                "members": {
+                                  "height": {
+                                    "value": {
+                                      "value": "22"
+                                    }
+                                  },
+                                  "uri": {
+                                    "value": "https://p6-item.ecombdimg.com/img/tos-cn-i-6vegkygxbk/5dfabc473bbf43c9841d06486f89a387~tplv-5mmsx3fupr-resize:74:74.webp"
+                                  },
+                                  "url_list": {
+                                    "elements": [
+                                      {
+                                        "value": "https://p6-item.ecombdimg.com/img/tos-cn-i-6vegkygxbk/5dfabc473bbf43c9841d06486f89a387~tplv-5mmsx3fupr-resize:74:74.webp"
+                                      }
+                                    ]
+                                  },
+                                  "width": {
+                                    "value": {
+                                      "value": "22"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "members": {
+                          "action": {
+                            "members": {
+                              "check_params": {
+                                "value": "{\"check_login\":true}"
+                              },
+                              "id": {
+                                "value": "action_im"
+                              }
+                            }
+                          },
+                          "button_type": {
+                            "value": {
+                              "value": "1"
+                            }
+                          },
+                          "content": {
+                            "members": {
+                              "font_style": {
+                                "members": {
+                                  "font_size": {
+                                    "value": {
+                                      "value": "10"
+                                    }
+                                  },
+                                  "font_weight": {
+                                    "value": {
+                                      "value": "400"
+                                    }
+                                  },
+                                  "line": {
+                                    "value": {
+                                      "value": "1"
+                                    }
+                                  },
+                                  "text_color": {
+                                    "value": "#99161823"
+                                  }
+                                }
+                              },
+                              "text": {
+                                "value": "客服"
+                              }
+                            }
+                          },
+                          "icon": {
+                            "members": {
+                              "url_model": {
+                                "members": {
+                                  "height": {
+                                    "value": {
+                                      "value": "22"
+                                    }
+                                  },
+                                  "uri": {
+                                    "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/jpw_uvlnpw/ljhwZthlaukjlkulzlp/pigeon_icon/new/good_detail.png"
+                                  },
+                                  "url_list": {
+                                    "elements": [
+                                      {
+                                        "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/jpw_uvlnpw/ljhwZthlaukjlkulzlp/pigeon_icon/new/good_detail.png"
+                                      }
+                                    ]
+                                  },
+                                  "width": {
+                                    "value": {
+                                      "value": "22"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "members": {
+                          "action": {
+                            "members": {
+                              "check_params": {
+                                "value": "{\"check_login\":true}"
+                              },
+                              "id": {
+                                "value": "action_enter_cart"
+                              },
+                              "ref_id": {
+                                "value": "ref_cart"
+                              }
+                            }
+                          },
+                          "button_type": {
+                            "value": {
+                              "value": "1"
+                            }
+                          },
+                          "content": {
+                            "members": {
+                              "font_style": {
+                                "members": {
+                                  "font_size": {
+                                    "value": {
+                                      "value": "10"
+                                    }
+                                  },
+                                  "font_weight": {
+                                    "value": {
+                                      "value": "400"
+                                    }
+                                  },
+                                  "line": {
+                                    "value": {
+                                      "value": "1"
+                                    }
+                                  },
+                                  "text_color": {
+                                    "value": "#99161823"
+                                  }
+                                }
+                              },
+                              "text": {
+                                "value": "购物车"
+                              }
+                            }
+                          },
+                          "icon": {
+                            "members": {
+                              "native_model": {
+                                "members": {
+                                  "height": {
+                                    "value": {
+                                      "value": "22"
+                                    }
+                                  },
+                                  "resource_name": {
+                                    "value": "resource_bottom_cart_icon"
+                                  },
+                                  "type": {},
+                                  "width": {
+                                    "value": {
+                                      "value": "22"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "members": {
+                          "action": {
+                            "members": {
+                              "check_params": {
+                                "value": "{\"check_login\":true}"
+                              },
+                              "id": {
+                                "value": "action_sku"
+                              },
+                              "meta": {
+                                "value": "{\"is_add_to_cart\":true}"
+                              }
+                            }
+                          },
+                          "button_type": {
+                            "value": {
+                              "value": "1"
+                            }
+                          },
+                          "content": {
+                            "members": {
+                              "font_style": {
+                                "members": {
+                                  "font_size": {
+                                    "value": {
+                                      "value": "10"
+                                    }
+                                  },
+                                  "font_weight": {
+                                    "value": {
+                                      "value": "400"
+                                    }
+                                  },
+                                  "line": {
+                                    "value": {
+                                      "value": "1"
+                                    }
+                                  },
+                                  "text_color": {
+                                    "value": "#99161823"
+                                  }
+                                }
+                              },
+                              "text": {
+                                "value": "加购"
+                              }
+                            }
+                          },
+                          "icon": {
+                            "members": {
+                              "native_model": {
+                                "members": {
+                                  "height": {
+                                    "value": {
+                                      "value": "22"
+                                    }
+                                  },
+                                  "resource_name": {
+                                    "value": "resource_bottom_add_to_cart_icon"
+                                  },
+                                  "type": {},
+                                  "width": {
+                                    "value": {
+                                      "value": "22"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  "scrollable": {
+                    "value": false
+                  },
+                  "space": {
+                    "value": {
+                      "value": "16"
+                    }
+                  }
+                }
+              },
+              "right_buttons": {
+                "elements": [
+                  {
+                    "members": {
+                      "action": {
+                        "members": {
+                          "check_params": {
+                            "value": "{\"check_login\":true}"
+                          },
+                          "id": {
+                            "value": "action_sku"
+                          },
+                          "meta": {
+                            "value": "{\"is_add_to_cart\":false,\"ultimate_buy_ab\":\"\"}"
+                          }
+                        }
+                      },
+                      "background": {
+                        "members": {
+                          "gradient": {
+                            "members": {
+                              "colors": {
+                                "elements": [
+                                  {
+                                    "value": "#FFFF3B52"
+                                  },
+                                  {
+                                    "value": "#FFFF1C49"
+                                  }
+                                ]
+                              },
+                              "end_position": {
+                                "members": {
+                                  "x": {
+                                    "value": {
+                                      "value": "1"
+                                    }
+                                  },
+                                  "y": {
+                                    "value": {
+                                      "value": "1"
+                                    }
+                                  }
+                                }
+                              },
+                              "locations": {
+                                "elements": [
+                                  {
+                                    "value": {
+                                      "value": "0"
+                                    }
+                                  },
+                                  {
+                                    "value": {
+                                      "value": "1"
+                                    }
+                                  }
+                                ]
+                              },
+                              "start_position": {
+                                "members": {
+                                  "x": {
+                                    "value": {
+                                      "value": "0"
+                                    }
+                                  },
+                                  "y": {
+                                    "value": {
+                                      "value": "0"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "radius": {
+                            "members": {
+                              "bottom_left": {
+                                "value": {
+                                  "value": "8"
+                                }
+                              },
+                              "bottom_right": {
+                                "value": {
+                                  "value": "8"
+                                }
+                              },
+                              "top_left": {
+                                "value": {
+                                  "value": "8"
+                                }
+                              },
+                              "top_right": {
+                                "value": {
+                                  "value": "8"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "main_title": {
+                        "members": {
+                          "content": {
+                            "members": {
+                              "font_style": {
+                                "members": {
+                                  "font_size": {
+                                    "value": {
+                                      "value": "15"
+                                    }
+                                  },
+                                  "font_weight": {
+                                    "value": {
+                                      "value": "500"
+                                    }
+                                  },
+                                  "line": {
+                                    "value": {
+                                      "value": "1"
+                                    }
+                                  },
+                                  "text_color": {
+                                    "value": "#FFFFFFFF"
+                                  }
+                                }
+                              },
+                              "text": {
+                                "value": "领券购买"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "weight": {
+                        "value": {
+                          "value": "1"
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              "right_buttons_small_mode": {
+                "elements": []
+              },
+              "supermarket": {}
+            }
+          },
+          "meta": {
+            "members": {
+              "add_cart": {
+                "members": {
+                  "add_cart_animation_style": {
+                    "value": {
+                      "value": "2"
+                    }
+                  },
+                  "add_cart_cover": {
+                    "value": "https://p3-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp"
+                  },
+                  "add_cart_track_meta": {
+                    "members": {
+                      "page_name": {
+                        "value": "product_detail"
+                      }
+                    }
+                  },
+                  "display_add_to_cart": {
+                    "value": true
+                  },
+                  "set_cart_gray": {
+                    "value": false
+                  }
+                }
+              },
+              "buy": {
+                "members": {
+                  "cash_rebate": {
+                    "value": "0"
+                  },
+                  "custom_buy_order_url": {
+                    "value": "sslocal://ec_goods_comment/?comment_entrance=product_flow_page&from_kol_id=99514375927&product_id=3623922725166447534&shop_id=12788472&show_header=1"
+                  },
+                  "find_same_goods_url": {
+                    "value": ""
+                  },
+                  "good_title": {
+                    "value": "【冰感速干经典logo短袖】卡特休闲简约透气夏季T恤CM2TST26831"
+                  },
+                  "h5_url": {
+                    "value": "sslocal://buy_now?&new_source_type=product_flow_page&shape=0&origin_id=99514375927_3623922725166447534&alkey=1128_99514375927_0_3623922725166447534_010&ec_order_prefetch=1&c_biz_combo=8&id=3623922725166447534&shop_id=CetHgQNE&origin_type=3002070010&group_id=0&mega_object=%7B%22entrance_info%22%3A%22%7B%5C%22carrier_source%5C%22%3A%5C%22search_ecommerce%5C%22%2C%5C%22source_method%5C%22%3A%5C%22product_card%5C%22%2C%5C%22search_id%5C%22%3A%5C%2220231027115647D834AFAD97C79D9E009A%5C%22%2C%5C%22product_activity_type%5C%22%3A%5C%22nonactivity%5C%22%2C%5C%22EVENT_ORIGIN_FEATURE%5C%22%3A%5C%22TEMAI%5C%22%2C%5C%22search_params%5C%22%3A%7B%5C%22search_id%5C%22%3A%5C%2220231027115647D834AFAD97C79D9E009A%5C%22%2C%5C%22search_result_id%5C%22%3A%5C%223627799996457432165%5C%22%7D%2C%5C%22search_keyword%5C%22%3A%5C%22%E6%AF%9B%E5%B7%BE%5C%22%2C%5C%22ecom_scene_id%5C%22%3A%5C%221082%5C%22%2C%5C%22ecom_group_type%5C%22%3A%5C%22%5C%22%2C%5C%22card_status%5C%22%3A%5C%22%5C%22%2C%5C%22module_label%5C%22%3A%5C%22%5C%22%2C%5C%22ecom_icon%5C%22%3A%5C%22%5C%22%7D%22%7D&schema_log_id=2024032117252039C0F9BEB1D6A79F1980&source_page=product_detail_page&yata_schema=android&eztf_sdk_extra=%7B%22schema_log_id%22%3A%222024032117252039C0F9BEB1D6A79F1980%22%2C%22is_side_car%22%3A%221%22%2C%22source_page%22%3A%22product_detail_page%22%2C%22sdk_version%22%3A%22v0_2_22%22%2C%22caller_psm%22%3A%22ecom.product.pack%22%2C%22yata_schema%22%3A%22android%22%7D"
+                  },
+                  "has_sec_activity": {
+                    "value": false
+                  },
+                  "is_auction_product": {
+                    "value": false
+                  },
+                  "is_deposit_pre_sale_product": {
+                    "value": false
+                  },
+                  "is_insurance_product": {
+                    "value": false
+                  },
+                  "is_member_sample_product": {
+                    "value": false
+                  },
+                  "is_scarce_buy_product": {
+                    "value": false
+                  },
+                  "joined_coupon_ids": {
+                    "value": ""
+                  },
+                  "order_status": {
+                    "value": {
+                      "value": "1"
+                    }
+                  },
+                  "order_url": {
+                    "value": "sslocal://buy_now?&new_source_type=product_flow_page&shape=0&origin_id=99514375927_3623922725166447534&alkey=1128_99514375927_0_3623922725166447534_010&ec_order_prefetch=1&c_biz_combo=8&id=3623922725166447534&shop_id=CetHgQNE&origin_type=3002070010&group_id=0&mega_object=%7B%22entrance_info%22%3A%22%7B%5C%22carrier_source%5C%22%3A%5C%22search_ecommerce%5C%22%2C%5C%22source_method%5C%22%3A%5C%22product_card%5C%22%2C%5C%22search_id%5C%22%3A%5C%2220231027115647D834AFAD97C79D9E009A%5C%22%2C%5C%22product_activity_type%5C%22%3A%5C%22nonactivity%5C%22%2C%5C%22EVENT_ORIGIN_FEATURE%5C%22%3A%5C%22TEMAI%5C%22%2C%5C%22search_params%5C%22%3A%7B%5C%22search_id%5C%22%3A%5C%2220231027115647D834AFAD97C79D9E009A%5C%22%2C%5C%22search_result_id%5C%22%3A%5C%223627799996457432165%5C%22%7D%2C%5C%22search_keyword%5C%22%3A%5C%22%E6%AF%9B%E5%B7%BE%5C%22%2C%5C%22ecom_scene_id%5C%22%3A%5C%221082%5C%22%2C%5C%22ecom_group_type%5C%22%3A%5C%22%5C%22%2C%5C%22card_status%5C%22%3A%5C%22%5C%22%2C%5C%22module_label%5C%22%3A%5C%22%5C%22%2C%5C%22ecom_icon%5C%22%3A%5C%22%5C%22%7D%22%7D&schema_log_id=2024032117252039C0F9BEB1D6A79F1980&source_page=product_detail_page&yata_schema=android&eztf_sdk_extra=%7B%22schema_log_id%22%3A%222024032117252039C0F9BEB1D6A79F1980%22%2C%22is_side_car%22%3A%221%22%2C%22source_page%22%3A%22product_detail_page%22%2C%22sdk_version%22%3A%22v0_2_22%22%2C%22caller_psm%22%3A%22ecom.product.pack%22%2C%22yata_schema%22%3A%22android%22%7D"
+                  },
+                  "package_sale": {
+                    "value": "0"
+                  },
+                  "product_min_price": {
+                    "value": {
+                      "value": "20200"
+                    }
+                  },
+                  "shop_cover": {
+                    "value": "https://p6-item.ecombdimg.com/img/tos-cn-i-6vegkygxbk/5dfabc473bbf43c9841d06486f89a387~tplv-5mmsx3fupr-resize:74:74.webp"
+                  },
+                  "shop_name": {
+                    "value": "CAT户外旗舰店"
+                  },
+                  "small_app_url": {
+                    "value": "sslocal://microapp?version=v2&app_id=tt7cca0a77e3e0cd15&scene=027001&version_type=current&start_page=pages%2Fproduct-pay%2Fproduct-pay%3Falkey%3D1128_99514375927_0_3623922725166447534_010%26c_biz_combo%3D8%26disable_activity%3D0%26entrance_info%3D%257B%2522carrier_source%2522%253A%2522search_ecommerce%2522%252C%2522source_method%2522%253A%2522product_card%2522%252C%2522search_id%2522%253A%252220231027115647D834AFAD97C79D9E009A%2522%252C%2522product_activity_type%2522%253A%2522nonactivity%2522%252C%2522EVENT_ORIGIN_FEATURE%2522%253A%2522TEMAI%2522%252C%2522search_params%2522%253A%257B%2522search_id%2522%253A%252220231027115647D834AFAD97C79D9E009A%2522%252C%2522search_result_id%2522%253A%25223627799996457432165%2522%257D%252C%2522search_keyword%2522%253A%2522%25E6%25AF%259B%25E5%25B7%25BE%2522%252C%2522ecom_scene_id%2522%253A%25221082%2522%252C%2522ecom_group_type%2522%253A%2522%2522%252C%2522card_status%2522%253A%2522%2522%252C%2522module_label%2522%253A%2522%2522%252C%2522ecom_icon%2522%253A%2522%2522%257D%26new_source_type%3Dproduct_flow_page%26origin_id%3D99514375927_3623922725166447534%26origin_type%3D3002070010%26product_id%3D3623922725166447534&bdp_log=%7B%22launch_from%22%3A%22full_screen_card%22%2C%22location%22%3A%22click_product%22%7D&bdpsum=c9a4999"
+                  },
+                  "use_native_buy": {
+                    "value": false
+                  }
+                }
+              },
+              "enter_cart": {
+                "members": {
+                  "cart_url": {
+                    "value": "sslocal://ecom_cart?new_source_type=video&ecom_scene_id=&cart_ids=&shop_ids=&anchor_cart_id=&dialog_coupon_consult_type="
+                  },
+                  "first_count": {
+                    "value": {
+                      "value": "2"
+                    }
+                  },
+                  "track_params": {
+                    "value": "{\"page_name\":\"product_detail\"}"
+                  }
+                }
+              },
+              "enter_shop": {
+                "members": {
+                  "enter_shop_log": {
+                    "members": {
+                      "store_group_type": {
+                        "value": "video"
+                      },
+                      "store_source_method": {
+                        "value": "product_card"
+                      },
+                      "store_source_page": {
+                        "value": "search_ecommerce"
+                      }
+                    }
+                  },
+                  "is_store": {
+                    "value": true
+                  },
+                  "shop_schema": {
+                    "value": "sslocal://goods/store?sec_shop_id=CetHgQNE&url_maker=shop_sdk&pass_through_api=%7B%7D&entrance_info={\"item_id\":\"0\"}&pre_product_id=3623922725166447534"
+                  }
+                }
+              },
+              "im": {
+                "members": {
+                  "im_url": {
+                    "value": "aweme://ecomcs_im/chat?selfId=62072670161&store_id=&store_name=&shop_tag=&theOtherId=CetHgQNE&fromSource=1&fromOrder=&fromGoods=3623922725166447534&extraParams=&entrance_info=%7B%22carrier_source%22%3A%22search_ecommerce%22%2C%22source_method%22%3A%22product_card%22%2C%22search_id%22%3A%2220231027115647D834AFAD97C79D9E009A%22%2C%22product_activity_type%22%3A%22nonactivity%22%2C%22EVENT_ORIGIN_FEATURE%22%3A%22TEMAI%22%2C%22search_params%22%3A%7B%22search_id%22%3A%2220231027115647D834AFAD97C79D9E009A%22%2C%22search_result_id%22%3A%223627799996457432165%22%7D%2C%22search_keyword%22%3A%22%E6%AF%9B%E5%B7%BE%22%2C%22ecom_scene_id%22%3A%221082%22%2C%22ecom_group_type%22%3A%22%22%2C%22card_status%22%3A%22%22%2C%22module_label%22%3A%22%22%2C%22ecom_icon%22%3A%22%22%7D&marketing_channel=&request_additions=%7B%22enter_from%22%3A%22order_merge_page%22%2C%22sec_author_id%22%3A%22MS4wLjABAAAA2I9NdgAKZrz9e0tLm1csyDMNqLESPDm34TdYYqXe8-I%22%2C%22author_id%22%3A%2299514375927%22%7D&live_room_id=0&enter_from=order_merge_page&promotion_id=3623922725166447534&meta_params=%7B%22entrance_info%22%3A%22%7B%5C%22carrier_source%5C%22%3A%5C%22search_ecommerce%5C%22%2C%5C%22source_method%5C%22%3A%5C%22product_card%5C%22%2C%5C%22search_id%5C%22%3A%5C%2220231027115647D834AFAD97C79D9E009A%5C%22%2C%5C%22product_activity_type%5C%22%3A%5C%22nonactivity%5C%22%2C%5C%22EVENT_ORIGIN_FEATURE%5C%22%3A%5C%22TEMAI%5C%22%2C%5C%22search_params%5C%22%3A%7B%5C%22search_id%5C%22%3A%5C%2220231027115647D834AFAD97C79D9E009A%5C%22%2C%5C%22search_result_id%5C%22%3A%5C%223627799996457432165%5C%22%7D%2C%5C%22search_keyword%5C%22%3A%5C%22%E6%AF%9B%E5%B7%BE%5C%22%2C%5C%22ecom_scene_id%5C%22%3A%5C%221082%5C%22%2C%5C%22ecom_group_type%5C%22%3A%5C%22%5C%22%2C%5C%22card_status%5C%22%3A%5C%22%5C%22%2C%5C%22module_label%5C%22%3A%5C%22%5C%22%2C%5C%22ecom_icon%5C%22%3A%5C%22%5C%22%7D%22%7D&author_id=99514375927&channel_id=0&channel_type=0&promotion_id=3623922725166447534&item_id=0&alkey=1128_99514375927_0_3623922725166447534_010&fromGoods=3623922725166447534&origin_id=99514375927_3623922725166447534&origin_type=3002070010&c_biz_combo=8&entrance_info=%7B%22carrier_source%22%3A%22search_ecommerce%22%2C%22source_method%22%3A%22product_card%22%2C%22search_id%22%3A%2220231027115647D834AFAD97C79D9E009A%22%2C%22product_activity_type%22%3A%22nonactivity%22%2C%22EVENT_ORIGIN_FEATURE%22%3A%22TEMAI%22%2C%22search_params%22%3A%7B%22search_id%22%3A%2220231027115647D834AFAD97C79D9E009A%22%2C%22search_result_id%22%3A%223627799996457432165%22%7D%2C%22search_keyword%22%3A%22%E6%AF%9B%E5%B7%BE%22%2C%22ecom_scene_id%22%3A%221082%22%2C%22ecom_group_type%22%3A%22%22%2C%22card_status%22%3A%22%22%2C%22module_label%22%3A%22%22%2C%22ecom_icon%22%3A%22%22%7D"
+                  }
+                }
+              },
+              "sku": {
+                "members": {
+                  "cash_rebate": {
+                    "value": "0"
+                  },
+                  "custom_buy_order_url": {
+                    "value": "sslocal://ec_goods_comment/?comment_entrance=product_flow_page&from_kol_id=99514375927&product_id=3623922725166447534&shop_id=12788472&show_header=1"
+                  },
+                  "first_image": {
+                    "members": {
+                      "height": {
+                        "value": {
+                          "value": "1080"
+                        }
+                      },
+                      "uri": {
+                        "value": "ecom-shop-material/CetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000"
+                      },
+                      "url_list": {
+                        "elements": [
+                          {
+                            "value": "https://p3-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp"
+                          },
+                          {
+                            "value": "https://p6-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp"
+                          }
+                        ]
+                      },
+                      "width": {
+                        "value": {
+                          "value": "1080"
+                        }
+                      }
+                    }
+                  },
+                  "goods_type": {
+                    "value": ""
+                  },
+                  "h5_url": {
+                    "value": "sslocal://buy_now?&new_source_type=product_flow_page&shape=0&origin_id=99514375927_3623922725166447534&alkey=1128_99514375927_0_3623922725166447534_010&ec_order_prefetch=1&c_biz_combo=8&id=3623922725166447534&shop_id=CetHgQNE&origin_type=3002070010&group_id=0&mega_object=%7B%22entrance_info%22%3A%22%7B%5C%22carrier_source%5C%22%3A%5C%22search_ecommerce%5C%22%2C%5C%22source_method%5C%22%3A%5C%22product_card%5C%22%2C%5C%22search_id%5C%22%3A%5C%2220231027115647D834AFAD97C79D9E009A%5C%22%2C%5C%22product_activity_type%5C%22%3A%5C%22nonactivity%5C%22%2C%5C%22EVENT_ORIGIN_FEATURE%5C%22%3A%5C%22TEMAI%5C%22%2C%5C%22search_params%5C%22%3A%7B%5C%22search_id%5C%22%3A%5C%2220231027115647D834AFAD97C79D9E009A%5C%22%2C%5C%22search_result_id%5C%22%3A%5C%223627799996457432165%5C%22%7D%2C%5C%22search_keyword%5C%22%3A%5C%22%E6%AF%9B%E5%B7%BE%5C%22%2C%5C%22ecom_scene_id%5C%22%3A%5C%221082%5C%22%2C%5C%22ecom_group_type%5C%22%3A%5C%22%5C%22%2C%5C%22card_status%5C%22%3A%5C%22%5C%22%2C%5C%22module_label%5C%22%3A%5C%22%5C%22%2C%5C%22ecom_icon%5C%22%3A%5C%22%5C%22%7D%22%7D&schema_log_id=2024032117252039C0F9BEB1D6A79F1980&source_page=product_detail_page&yata_schema=android&eztf_sdk_extra=%7B%22schema_log_id%22%3A%222024032117252039C0F9BEB1D6A79F1980%22%2C%22is_side_car%22%3A%221%22%2C%22source_page%22%3A%22product_detail_page%22%2C%22sdk_version%22%3A%22v0_2_22%22%2C%22caller_psm%22%3A%22ecom.product.pack%22%2C%22yata_schema%22%3A%22android%22%7D"
+                  },
+                  "has_sec_activity": {
+                    "value": false
+                  },
+                  "order_url": {
+                    "value": "sslocal://buy_now?&new_source_type=product_flow_page&shape=0&origin_id=99514375927_3623922725166447534&alkey=1128_99514375927_0_3623922725166447534_010&ec_order_prefetch=1&c_biz_combo=8&id=3623922725166447534&shop_id=CetHgQNE&origin_type=3002070010&group_id=0&mega_object=%7B%22entrance_info%22%3A%22%7B%5C%22carrier_source%5C%22%3A%5C%22search_ecommerce%5C%22%2C%5C%22source_method%5C%22%3A%5C%22product_card%5C%22%2C%5C%22search_id%5C%22%3A%5C%2220231027115647D834AFAD97C79D9E009A%5C%22%2C%5C%22product_activity_type%5C%22%3A%5C%22nonactivity%5C%22%2C%5C%22EVENT_ORIGIN_FEATURE%5C%22%3A%5C%22TEMAI%5C%22%2C%5C%22search_params%5C%22%3A%7B%5C%22search_id%5C%22%3A%5C%2220231027115647D834AFAD97C79D9E009A%5C%22%2C%5C%22search_result_id%5C%22%3A%5C%223627799996457432165%5C%22%7D%2C%5C%22search_keyword%5C%22%3A%5C%22%E6%AF%9B%E5%B7%BE%5C%22%2C%5C%22ecom_scene_id%5C%22%3A%5C%221082%5C%22%2C%5C%22ecom_group_type%5C%22%3A%5C%22%5C%22%2C%5C%22card_status%5C%22%3A%5C%22%5C%22%2C%5C%22module_label%5C%22%3A%5C%22%5C%22%2C%5C%22ecom_icon%5C%22%3A%5C%22%5C%22%7D%22%7D&schema_log_id=2024032117252039C0F9BEB1D6A79F1980&source_page=product_detail_page&yata_schema=android&eztf_sdk_extra=%7B%22schema_log_id%22%3A%222024032117252039C0F9BEB1D6A79F1980%22%2C%22is_side_car%22%3A%221%22%2C%22source_page%22%3A%22product_detail_page%22%2C%22sdk_version%22%3A%22v0_2_22%22%2C%22caller_psm%22%3A%22ecom.product.pack%22%2C%22yata_schema%22%3A%22android%22%7D"
+                  },
+                  "product_type_verified": {
+                    "value": false
+                  },
+                  "scroll_to_dou_installment": {
+                    "value": false
+                  },
+                  "set_cart_gray": {
+                    "value": false
+                  },
+                  "track_meta": {
+                    "members": {
+                      "discount_count": {
+                        "value": {
+                          "value": "1"
+                        }
+                      },
+                      "price_type": {
+                        "value": "预售价,券后价"
+                      },
+                      "store_id": {
+                        "value": {
+                          "value": "0"
+                        }
+                      }
+                    }
+                  },
+                  "use_native_buy": {
+                    "value": false
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "components": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "control": {
+        "detailControl": true,
+        "gulControl": true,
+        "longConnectionEnabled": false,
+        "searchWordsControl": true,
+        "shopRecommendsControl": true
+      },
+      "halfStrandVO": {
+        "_sliceType": "PdpVO",
+        "componentId": "id_half_strand",
+        "isFooter": false,
+        "isHeader": false,
+        "isHide": false,
+        "itemKey": 37,
+        "tags": {},
+        "track": {
+          "members": {}
+        },
+        "ui": {
+          "containerType": "native"
+        },
+        "version": 1,
+        "vo": {
+          "display": {
+            "members": {
+              "live_entry_vo": {
+                "members": {
+                  "author_avatar": {
+                    "members": {
+                      "url_model": {
+                        "members": {
+                          "uri": {
+                            "value": "720x720/aweme-avatar/tos-cn-avt-0015_9023b56e7399bc4cb0e9e239f136a76d"
+                          },
+                          "url_list": {
+                            "elements": [
+                              {
+                                "value": "https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_9023b56e7399bc4cb0e9e239f136a76d.jpeg?from=4010531038"
+                              },
+                              {
+                                "value": "https://p6.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_9023b56e7399bc4cb0e9e239f136a76d.jpeg?from=4010531038"
+                              },
+                              {
+                                "value": "https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_9023b56e7399bc4cb0e9e239f136a76d.jpeg?from=4010531038"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "author_name": {
+                    "value": "CAT户外旗舰店"
+                  },
+                  "living_schema": {
+                    "value": "sslocal://webcast_room/?enter_from_merge=product_detail_page&enter_method=live_trabecula&room_id=7348692470387198732&search_params=&user_id=99514375927"
+                  }
+                }
+              }
+            }
+          },
+          "meta": {
+            "members": {
+              "live_entry_meta": {
+                "members": {
+                  "log_extras": {
+                    "value": "{\"anchor_id\":\"99514375927\",\"room_id\":\"7348692470387198732\"}"
+                  },
+                  "schema": {
+                    "value": "sslocal://webcast_room/?room_id=7348692470387198732&user_id=99514375927"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "headerV2": {
+        "actionMeta": {
+          "normal_cell": "7"
+        },
+        "cells": [
+          {
+            "clickAction": {
+              "actions": [
+                {
+                  "data": {
+                    "fields": {
+                      "event_name": "pdp_header_module_click",
+                      "event_params": {
+                        "main_video_type": "",
+                        "module_name": "main_video"
+                      }
+                    },
+                    "type": "HeadTrack"
+                  },
+                  "hasDynamicProp": false
+                },
+                {
+                  "data": {
+                    "fields": {
+                      "index": 0
+                    },
+                    "type": "HeadPreview"
+                  },
+                  "hasDynamicProp": false
+                }
+              ],
+              "data": {
+                "actions": [
+                  {
+                    "fields": {
+                      "event_name": "pdp_header_module_click",
+                      "event_params": {
+                        "main_video_type": "",
+                        "module_name": "main_video"
+                      }
+                    },
+                    "type": "HeadTrack"
+                  },
+                  {
+                    "fields": {
+                      "index": 0
+                    },
+                    "type": "HeadPreview"
+                  }
+                ],
+                "type": "Group"
+              },
+              "hasDynamicProp": false
+            },
+            "media": {
+              "previewType": 0,
+              "supportAutoPlay": true,
+              "supportNavBlur": true,
+              "supportPreview": true,
+              "video": {
+                "autoPlay": false,
+                "duration": 9067,
+                "extraInfo": {
+                  "LIZ": {
+                    "LIZ": 0,
+                    "LIZIZ": {
+                      "video_type": "main_video"
+                    },
+                    "LIZJ": {
+                      "video_type": "main_video_window"
+                    }
+                  }
+                },
+                "height": 1024,
+                "initialStartTimeMs": 0,
+                "mainUrl": "https://v3-d.douyinvod.com/9989c1ae6e99605bd92ce8be9fe255ae/65fc0b19/video/tos/cn/tos-cn-v-800a60/owwFIyCp8sWtKMnTASgeggfyQblYkaDB5YJYcD/?a=1128&ch=0&cr=7&dr=2&er=0&cd=0%7C0%7C0%7C1&cv=1&br=685&bt=685&cs=4&ds=6&ft=~iiRCzzKhWH6B0Eu5DLo0PD1&mime_type=video_mp4&qs=11&rc=ZTRnZThnNGdlPDg2Nzg7NUBpampqcWY6ZnBnbDMzNGRoM0AyNF8tLmA2XzMxMGMtMy9eYSNgZzIvcjRnMS5gLS1kYC9zcw%3D%3D&btag=10e00088000&cc=24&cquery=100L&dy_q=1711013120&feature_id=22eebe935d739141bc75f57beca62d29&l=2024032117252039C0F9BEB1D6A79F1980",
+                "playMeta": {
+                  "autoPlay": false,
+                  "bitRate": [
+                    {
+                      "bitRate": 702440,
+                      "gearName": "adapt_540_1",
+                      "hdrBit": "",
+                      "hdrType": "",
+                      "isH265": 0,
+                      "playAddr": {
+                        "fileCheckSum": "c:0-9082-61b5|d:0-398063-b5c3,398064-796128-65be",
+                        "fileHash": "4c3d610f1e09ea848d47c2bd42000c32",
+                        "height": 1024,
+                        "size": 796129,
+                        "uri": "v02ecag10000ci1d4mjc77uc2n5gjgcg",
+                        "urlKey": "v02ecag10000ci1d4mjc77uc2n5gjgcg_bytevc1_540p_702440",
+                        "urlList": [
+                          "https://v3-d.douyinvod.com/9989c1ae6e99605bd92ce8be9fe255ae/65fc0b19/video/tos/cn/tos-cn-v-800a60/owwFIyCp8sWtKMnTASgeggfyQblYkaDB5YJYcD/?a=1128&ch=0&cr=7&dr=2&er=0&cd=0%7C0%7C0%7C1&cv=1&br=685&bt=685&cs=4&ds=6&ft=~iiRCzzKhWH6B0Eu5DLo0PD1&mime_type=video_mp4&qs=11&rc=ZTRnZThnNGdlPDg2Nzg7NUBpampqcWY6ZnBnbDMzNGRoM0AyNF8tLmA2XzMxMGMtMy9eYSNgZzIvcjRnMS5gLS1kYC9zcw%3D%3D&btag=10e00088000&cc=24&cquery=100L&dy_q=1711013120&feature_id=22eebe935d739141bc75f57beca62d29&l=2024032117252039C0F9BEB1D6A79F1980",
+                          "https://v5-g.douyinvod.com/0f042f53981934e40c1e4b7f25be45ed/65fc0b19/video/tos/cn/tos-cn-v-800a60/owwFIyCp8sWtKMnTASgeggfyQblYkaDB5YJYcD/?a=1128&ch=0&cr=7&dr=2&er=0&cd=0%7C0%7C0%7C1&cv=1&br=685&bt=685&cs=4&ds=6&ft=~iiRCzzKhWH6B0Eu5DLo0PD1&mime_type=video_mp4&qs=11&rc=ZTRnZThnNGdlPDg2Nzg7NUBpampqcWY6ZnBnbDMzNGRoM0AyNF8tLmA2XzMxMGMtMy9eYSNgZzIvcjRnMS5gLS1kYC9zcw%3D%3D&btag=10e0008d000&cquery=100L&dy_q=1711013120&feature_id=22eebe935d739141bc75f57beca62d29&l=2024032117252039C0F9BEB1D6A79F1980",
+                          "https://api-play.amemv.com/aweme/v1/play/?video_id=v02ecag10000ci1d4mjc77uc2n5gjgcg&line=0&file_id=a2286504f335496bbd91cd150bbd715b&sign=4c3d610f1e09ea848d47c2bd42000c32&is_play_url=1",
+                          "https://api.amemv.com/aweme/v1/play/?video_id=v02ecag10000ci1d4mjc77uc2n5gjgcg&line=1&file_id=a2286504f335496bbd91cd150bbd715b&sign=4c3d610f1e09ea848d47c2bd42000c32&is_play_url=1"
+                        ],
+                        "width": 576
+                      },
+                      "playAddrBytevc1": {
+                        "height": 0,
+                        "size": 0,
+                        "width": 0
+                      },
+                      "qualityType": 28
+                    }
+                  ],
+                  "cdnUrlExpired": 1711016729,
+                  "cover": {
+                    "height": 0,
+                    "size": 0,
+                    "uri": "tos-cn-v-800a60/ooIFQDAEppYgDfnkKeskbgp5yJYsaDZgCTtNBs",
+                    "urlList": [
+                      "https://p3-sign.douyinpic.com/tos-cn-v-800a60/ooIFQDAEppYgDfnkKeskbgp5yJYsaDZgCTtNBs~tplv-noop.image?cquery=100L&dy_q=1711013120&l=2024032117252039C0F9BEB1D6A79F1980&x-expires=1711016729&x-signature=90n%2Fqob4tk05DpHAcOAdHcQ29BI%3D"
+                    ],
+                    "width": 0
+                  },
+                  "duration": 0,
+                  "h264PlayAddr": {
+                    "height": 0,
+                    "size": 0,
+                    "width": 0
+                  },
+                  "height": 0,
+                  "initialStartTimeMs": 0,
+                  "playAddr": {
+                    "height": 0,
+                    "size": 0,
+                    "width": 0
+                  },
+                  "playAddrLowbr": {
+                    "height": 0,
+                    "size": 0,
+                    "width": 0
+                  },
+                  "width": 0
+                },
+                "posterImage": {
+                  "remote": {
+                    "height": 1080,
+                    "size": 0,
+                    "uri": "ecom-shop-material/CetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000",
+                    "urlList": [
+                      "https://p3-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                      "https://p6-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp"
+                    ],
+                    "width": 1080
+                  },
+                  "roundCorner": 0
+                },
+                "urlExpire": 1711016729,
+                "vid": "v02ecag10000ci1d4mjc77uc2n5gjgcg",
+                "width": 576
+              }
+            },
+            "slice": {
+              "hasReportedShowEvent": false,
+              "showActions": {
+                "data": {
+                  "fields": {
+                    "event_name": "pdp_header_module_show",
+                    "event_params": {
+                      "main_video_type": "",
+                      "module_name": "main_video"
+                    },
+                    "once_key": "pdp_header_main_video_show"
+                  },
+                  "type": "HeadTrack"
+                },
+                "hasDynamicProp": false
+              }
+            },
+            "track": {
+              "from_entrance": "main_picture",
+              "main_video_type": "",
+              "module_name": "main_video",
+              "type": "product"
+            }
+          },
+          {
+            "clickAction": {
+              "data": {
+                "fields": {
+                  "index": 1
+                },
+                "type": "HeadPreview"
+              },
+              "hasDynamicProp": false
+            },
+            "media": {
+              "findSameUrl": "aweme://search/photo?enter_from=search_product_detail&search_channel=ecom_mms_sim_product&search_scan_params=%7B%22photo_search_previous_page%22%3A%22search_ecommerce%22%2C%22enter_from_second%22%3A%22product_detail__search_ecommerce%22%7D&group_id=3623922725166447534&product_id=3623922725166447534&extra=%7B%22ecom_scene_id%22%3A%22%22%7D&enter_method=top_pic&search_image_url=https%3A%2F%2Fp3-item.ecombdimg.com%2Fimg%2Fecom-shop-material%2FCetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000~tplv-5mmsx3fupr-resize_q%3A1080%3A1080%3Aq90.webp",
+              "image": {
+                "remote": {
+                  "height": 1080,
+                  "size": 0,
+                  "uri": "ecom-shop-material/CetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000",
+                  "urlList": [
+                    "https://p3-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                    "https://p6-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp"
+                  ],
+                  "width": 1080
+                },
+                "roundCorner": 0
+              },
+              "previewType": 0,
+              "supportAutoPlay": false,
+              "supportNavBlur": true,
+              "supportPreview": true
+            },
+            "track": {
+              "pd_headvideo_size": "3_4",
+              "type": "product"
+            }
+          },
+          {
+            "clickAction": {
+              "data": {
+                "fields": {
+                  "index": 2
+                },
+                "type": "HeadPreview"
+              },
+              "hasDynamicProp": false
+            },
+            "media": {
+              "findSameUrl": "aweme://search/photo?product_id=3623922725166447534&extra=%7B%22ecom_scene_id%22%3A%22%22%7D&enter_method=top_pic&search_image_url=https%3A%2F%2Fp26-item.ecombdimg.com%2Fimg%2Fecom-shop-material%2FCetHgQNE_m_5f06133cbf2db33ce0260cd7ce3d1eae_sx_103135_www1000-1000~tplv-5mmsx3fupr-resize_q%3A1080%3A1080%3Aq90.webp&enter_from=search_product_detail&search_channel=ecom_mms_sim_product&search_scan_params=%7B%22photo_search_previous_page%22%3A%22search_ecommerce%22%2C%22enter_from_second%22%3A%22product_detail__search_ecommerce%22%7D&group_id=3623922725166447534",
+              "image": {
+                "remote": {
+                  "height": 1080,
+                  "size": 0,
+                  "uri": "ecom-shop-material/CetHgQNE_m_5f06133cbf2db33ce0260cd7ce3d1eae_sx_103135_www1000-1000",
+                  "urlList": [
+                    "https://p26-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_5f06133cbf2db33ce0260cd7ce3d1eae_sx_103135_www1000-1000~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                    "https://p3-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_5f06133cbf2db33ce0260cd7ce3d1eae_sx_103135_www1000-1000~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp"
+                  ],
+                  "width": 1080
+                },
+                "roundCorner": 0
+              },
+              "previewType": 0,
+              "supportAutoPlay": false,
+              "supportNavBlur": true,
+              "supportPreview": true
+            },
+            "track": {
+              "pd_headvideo_size": "3_4",
+              "type": "product"
+            }
+          },
+          {
+            "clickAction": {
+              "data": {
+                "fields": {
+                  "index": 3
+                },
+                "type": "HeadPreview"
+              },
+              "hasDynamicProp": false
+            },
+            "media": {
+              "findSameUrl": "aweme://search/photo?enter_from=search_product_detail&search_channel=ecom_mms_sim_product&search_scan_params=%7B%22photo_search_previous_page%22%3A%22search_ecommerce%22%2C%22enter_from_second%22%3A%22product_detail__search_ecommerce%22%7D&group_id=3623922725166447534&product_id=3623922725166447534&extra=%7B%22ecom_scene_id%22%3A%22%22%7D&enter_method=top_pic&search_image_url=https%3A%2F%2Fp26-item.ecombdimg.com%2Fimg%2Fecom-shop-material%2FCetHgQNE_m_767066cedb02bc0a6038daef0c2a5236_sx_554515_www1200-1200~tplv-5mmsx3fupr-resize_q%3A1080%3A1080%3Aq90.webp",
+              "image": {
+                "remote": {
+                  "height": 1080,
+                  "size": 0,
+                  "uri": "ecom-shop-material/CetHgQNE_m_767066cedb02bc0a6038daef0c2a5236_sx_554515_www1200-1200",
+                  "urlList": [
+                    "https://p26-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_767066cedb02bc0a6038daef0c2a5236_sx_554515_www1200-1200~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                    "https://p3-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_767066cedb02bc0a6038daef0c2a5236_sx_554515_www1200-1200~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp"
+                  ],
+                  "width": 1080
+                },
+                "roundCorner": 0
+              },
+              "previewType": 0,
+              "supportAutoPlay": false,
+              "supportNavBlur": true,
+              "supportPreview": true
+            },
+            "track": {
+              "pd_headvideo_size": "3_4",
+              "type": "product"
+            }
+          },
+          {
+            "clickAction": {
+              "data": {
+                "fields": {
+                  "index": 4
+                },
+                "type": "HeadPreview"
+              },
+              "hasDynamicProp": false
+            },
+            "media": {
+              "findSameUrl": "aweme://search/photo?group_id=3623922725166447534&product_id=3623922725166447534&extra=%7B%22ecom_scene_id%22%3A%22%22%7D&enter_method=top_pic&search_image_url=https%3A%2F%2Fp6-item.ecombdimg.com%2Fimg%2Fecom-shop-material%2FCetHgQNE_m_db4e6c57f5e030705bee1317f1f7a976_sx_335669_www1000-1000~tplv-5mmsx3fupr-resize_q%3A1080%3A1080%3Aq90.webp&enter_from=search_product_detail&search_channel=ecom_mms_sim_product&search_scan_params=%7B%22photo_search_previous_page%22%3A%22search_ecommerce%22%2C%22enter_from_second%22%3A%22product_detail__search_ecommerce%22%7D",
+              "image": {
+                "remote": {
+                  "height": 1080,
+                  "size": 0,
+                  "uri": "ecom-shop-material/CetHgQNE_m_db4e6c57f5e030705bee1317f1f7a976_sx_335669_www1000-1000",
+                  "urlList": [
+                    "https://p6-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_db4e6c57f5e030705bee1317f1f7a976_sx_335669_www1000-1000~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                    "https://p26-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_db4e6c57f5e030705bee1317f1f7a976_sx_335669_www1000-1000~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp"
+                  ],
+                  "width": 1080
+                },
+                "roundCorner": 0
+              },
+              "previewType": 0,
+              "supportAutoPlay": false,
+              "supportNavBlur": true,
+              "supportPreview": true
+            },
+            "track": {
+              "pd_headvideo_size": "3_4",
+              "type": "product"
+            }
+          },
+          {
+            "clickAction": {
+              "data": {
+                "fields": {
+                  "index": 5
+                },
+                "type": "HeadPreview"
+              },
+              "hasDynamicProp": false
+            },
+            "media": {
+              "findSameUrl": "aweme://search/photo?group_id=3623922725166447534&product_id=3623922725166447534&extra=%7B%22ecom_scene_id%22%3A%22%22%7D&enter_method=top_pic&search_image_url=https%3A%2F%2Fp26-item.ecombdimg.com%2Fimg%2Fecom-shop-material%2FCetHgQNE_m_c5c74f6b1c0da312985156a207944161_sx_274105_www1200-1200~tplv-5mmsx3fupr-resize_q%3A1080%3A1080%3Aq90.webp&enter_from=search_product_detail&search_channel=ecom_mms_sim_product&search_scan_params=%7B%22photo_search_previous_page%22%3A%22search_ecommerce%22%2C%22enter_from_second%22%3A%22product_detail__search_ecommerce%22%7D",
+              "image": {
+                "remote": {
+                  "height": 1080,
+                  "size": 0,
+                  "uri": "ecom-shop-material/CetHgQNE_m_c5c74f6b1c0da312985156a207944161_sx_274105_www1200-1200",
+                  "urlList": [
+                    "https://p26-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_c5c74f6b1c0da312985156a207944161_sx_274105_www1200-1200~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                    "https://p6-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_c5c74f6b1c0da312985156a207944161_sx_274105_www1200-1200~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp"
+                  ],
+                  "width": 1080
+                },
+                "roundCorner": 0
+              },
+              "previewType": 0,
+              "supportAutoPlay": false,
+              "supportNavBlur": true,
+              "supportPreview": true
+            },
+            "track": {
+              "pd_headvideo_size": "3_4",
+              "type": "product"
+            }
+          },
+          {
+            "slice": {
+              "hasReportedShowEvent": false,
+              "showActions": {
+                "data": {
+                  "fields": {
+                    "btm_id": "a1.b8094.c0645.d917981",
+                    "event_name": "pdp_header_size_show",
+                    "event_params": {
+                      "show_size_reference_info": "1"
+                    },
+                    "once_key": "pdp_header_size_show"
+                  },
+                  "type": "HeadTrack"
+                },
+                "hasDynamicProp": false
+              },
+              "sliceId": "size_helper",
+              "sliceTemplate": {
+                "elements": [
+                  {
+                    "bindInfo": {
+                      "LIZ": {
+                        "click_action": "data.user_size_click_actions"
+                      }
+                    },
+                    "elements": [
+                      {
+                        "bindInfo": {
+                          "LIZJ": {
+                            "margin": "option(data.global.is_small_mode, [32, 12, 44, 12], option(data.margin, data.margin, [24, 16, 59, 16]))"
+                          }
+                        },
+                        "elements": [
+                          {
+                            "bindInfo": {
+                              "LIZJ": {
+                                "margin": "option(data.global.is_small_mode, [0, 0, 10, 0], [0, 0, 12, 0])"
+                              }
+                            },
+                            "elements": [
+                              {
+                                "elements": [
+                                  {
+                                    "attr": {},
+                                    "bindInfo": {
+                                      "LIZIZ": {
+                                        "text": "data.title"
+                                      },
+                                      "LIZJ": {
+                                        "display": "option(data.title, null, 'none')",
+                                        "font_size": "option(data.global.is_small_mode, 14, 16)"
+                                      }
+                                    },
+                                    "itemKey": 42,
+                                    "style": {
+                                      "flex_shrink": 0,
+                                      "font_color": "#FF161823",
+                                      "font_weight": 600
+                                    },
+                                    "type": "Text"
+                                  },
+                                  {
+                                    "attr": {},
+                                    "bindInfo": {
+                                      "LIZIZ": {
+                                        "text": "data.title_desc.text"
+                                      },
+                                      "LIZJ": {
+                                        "display": "option(data.title_desc.text, null, 'none')",
+                                        "font_color": "option(data.title_desc.font_style.font_color, data.title_desc.font_style.font_color, '#88161823')",
+                                        "font_size": "option(data.global.is_small_mode, option(data.title_desc.font_style.font_size,data.title_desc.font_style.font_size, 12) - 2, option(data.title_desc.font_style.font_size,data.title_desc.font_style.font_size, 12))",
+                                        "font_weight": "option(data.title_desc.font_style.font_weight, data.title_desc.font_style.font_weight, 400)"
+                                      }
+                                    },
+                                    "itemKey": 43,
+                                    "style": {
+                                      "end_ellipse": true,
+                                      "flex_shrink": 100,
+                                      "margin": [
+                                        "0",
+                                        "0",
+                                        "0",
+                                        "4"
+                                      ]
+                                    },
+                                    "type": "Text"
+                                  }
+                                ],
+                                "itemKey": 41,
+                                "style": {
+                                  "align_items": "center",
+                                  "flex_shrink": 1
+                                },
+                                "type": "View"
+                              },
+                              {
+                                "bindInfo": {
+                                  "LIZJ": {
+                                    "display": "option(data.user_info_display, null, 'none')"
+                                  }
+                                },
+                                "elements": [
+                                  {
+                                    "attr": {},
+                                    "bindInfo": {
+                                      "LIZIZ": {
+                                        "src": "data.user_avatar.url"
+                                      },
+                                      "LIZJ": {
+                                        "display": "option(data.user_avatar.url, null, 'none')",
+                                        "height": "option(data.global.is_small_mode, option(data.user_avatar.height, data.user_avatar.height, 16) - 2, option(data.user_avatar.height, data.user_avatar.height, 16))",
+                                        "width": "option(data.global.is_small_mode, option(data.user_avatar.width, data.user_avatar.width, 16) - 2, option(data.user_avatar.width, data.user_avatar.width, 16))"
+                                      }
+                                    },
+                                    "itemKey": 45,
+                                    "style": {
+                                      "flex_shrink": 0,
+                                      "margin": [
+                                        "0",
+                                        "2",
+                                        "0",
+                                        "0"
+                                      ],
+                                      "radius": [
+                                        8,
+                                        8,
+                                        8,
+                                        8
+                                      ]
+                                    },
+                                    "type": "Image"
+                                  },
+                                  {
+                                    "bindInfo": {
+                                      "LJ": {
+                                        "LIZ": "index",
+                                        "LIZIZ": "item",
+                                        "LIZJ": "data.user_size_text",
+                                        "LIZLLL": "",
+                                        "LJ": ""
+                                      }
+                                    },
+                                    "elements": [
+                                      {
+                                        "bindInfo": {
+                                          "LIZJ": {
+                                            "display": "option(index != 0, null, 'none')"
+                                          }
+                                        },
+                                        "itemKey": 47,
+                                        "style": {
+                                          "bg_color": "#1F161823",
+                                          "height": "10",
+                                          "margin": [
+                                            "0",
+                                            "6",
+                                            "0",
+                                            "6"
+                                          ],
+                                          "width": "1"
+                                        },
+                                        "type": "View"
+                                      },
+                                      {
+                                        "attr": {},
+                                        "bindInfo": {
+                                          "LIZIZ": {
+                                            "text": "item.text"
+                                          },
+                                          "LIZJ": {
+                                            "font_color": "item.font_style.font_color",
+                                            "font_size": "option(data.global.is_small_mode, item.font_style.font_size - 2, item.font_style.font_size)",
+                                            "font_weight": "item.font_style.font_weight"
+                                          }
+                                        },
+                                        "itemKey": 48,
+                                        "style": {},
+                                        "type": "Text"
+                                      }
+                                    ],
+                                    "itemKey": 46,
+                                    "style": {
+                                      "align_items": "center"
+                                    },
+                                    "type": "View"
+                                  },
+                                  {
+                                    "attr": {
+                                      "src": "https://p26-detailpage.byteimg.com/tos-cn-i-ojoqa5bfdv/%E7%AE%AD%E5%A4%B4icon%E7%81%B0%E8%89%B2.png~tplv-ojoqa5bfdv-image.image"
+                                    },
+                                    "itemKey": 49,
+                                    "style": {
+                                      "flex_shrink": 0,
+                                      "height": "11",
+                                      "margin": [
+                                        "0",
+                                        "0",
+                                        "0",
+                                        "2"
+                                      ],
+                                      "width": "11"
+                                    },
+                                    "type": "Image"
+                                  }
+                                ],
+                                "itemKey": 44,
+                                "style": {
+                                  "align_items": "center",
+                                  "flex_shrink": 0
+                                },
+                                "type": "View"
+                              }
+                            ],
+                            "itemKey": 40,
+                            "style": {
+                              "align_items": "center",
+                              "flex_grow": 0,
+                              "flex_shrink": 0,
+                              "justify_content": "space-between"
+                            },
+                            "type": "View"
+                          },
+                          {
+                            "elements": [
+                              {
+                                "elements": [
+                                  {
+                                    "bindInfo": {
+                                      "LJ": {
+                                        "LIZ": "index",
+                                        "LIZIZ": "item",
+                                        "LIZJ": "data.sheet",
+                                        "LIZLLL": "",
+                                        "LJ": ""
+                                      }
+                                    },
+                                    "elements": [
+                                      {
+                                        "bindInfo": {
+                                          "LIZJ": {
+                                            "bg_color": "option(item.bg_style.background_color, item.bg_style.background_color, '#FFFFFFFF')",
+                                            "min_height": "option(index == 0, 37, 32)"
+                                          },
+                                          "LJ": {
+                                            "LIZ": "index",
+                                            "LIZIZ": "item",
+                                            "LIZJ": "item.sheet_items",
+                                            "LIZLLL": "",
+                                            "LJ": ""
+                                          }
+                                        },
+                                        "elements": [
+                                          {
+                                            "attr": {},
+                                            "bindInfo": {
+                                              "LIZIZ": {
+                                                "src": "item.icon.url"
+                                              },
+                                              "LIZJ": {
+                                                "display": "option(item.icon.url, null, 'none')",
+                                                "height": "option(item.icon.height, data.user_avatar.height, 16)",
+                                                "width": "option(item.icon.width, data.user_avatar.width, 16)"
+                                              }
+                                            },
+                                            "itemKey": 54,
+                                            "style": {
+                                              "flex_shrink": 0,
+                                              "margin": [
+                                                "0",
+                                                "6",
+                                                "0",
+                                                "0"
+                                              ],
+                                              "radius": [
+                                                8,
+                                                8,
+                                                8,
+                                                8
+                                              ]
+                                            },
+                                            "type": "Image"
+                                          },
+                                          {
+                                            "attr": {},
+                                            "bindInfo": {
+                                              "LIZIZ": {
+                                                "text": "item.text.text"
+                                              },
+                                              "LIZJ": {
+                                                "font_color": "option(item.text.font_style.font_color, item.text.font_style.font_color, '#FF000000')",
+                                                "font_size": "option(item.text.font_style.font_size, item.text.font_style.font_size, 12)",
+                                                "font_weight": "option(item.text.font_style.font_weight, item.text.font_style.font_weight, 400)"
+                                              }
+                                            },
+                                            "itemKey": 55,
+                                            "style": {
+                                              "flex_shrink": 1
+                                            },
+                                            "type": "Text"
+                                          }
+                                        ],
+                                        "itemKey": 53,
+                                        "style": {
+                                          "align_items": "center",
+                                          "flex_grow": 1,
+                                          "flex_shrink": 0,
+                                          "justify_content": "center",
+                                          "padding": [
+                                            "0",
+                                            "12",
+                                            "0",
+                                            "12"
+                                          ],
+                                          "width": "100%"
+                                        },
+                                        "type": "View"
+                                      }
+                                    ],
+                                    "itemKey": 52,
+                                    "style": {
+                                      "align_items": "center",
+                                      "flex_direction": "column",
+                                      "flex_grow": 1,
+                                      "flex_shrink": 0
+                                    },
+                                    "type": "View"
+                                  },
+                                  {
+                                    "bindInfo": {
+                                      "LIZJ": {
+                                        "display": "option(data.global.is_small_mode, option(data.col_counter >= 4, 'flex', 'none'), option(data.col_counter >= 6, 'flex', 'none'))"
+                                      }
+                                    },
+                                    "elements": [
+                                      {
+                                        "itemKey": 57,
+                                        "style": {
+                                          "bg_gradient": {
+                                            "colors": [
+                                              {
+                                                "color": "#00161823",
+                                                "location": 0
+                                              },
+                                              {
+                                                "color": "#FF161823",
+                                                "location": 0.5
+                                              }
+                                            ],
+                                            "degree": "90"
+                                          },
+                                          "height": "37",
+                                          "width": "100%"
+                                        },
+                                        "type": "View"
+                                      },
+                                      {
+                                        "itemKey": 58,
+                                        "style": {
+                                          "bg_gradient": {
+                                            "colors": [
+                                              {
+                                                "color": "#00FFFFFF",
+                                                "location": 0
+                                              },
+                                              {
+                                                "color": "#FFFFFFFF",
+                                                "location": 0.5
+                                              }
+                                            ],
+                                            "degree": "90"
+                                          },
+                                          "flex_grow": 1,
+                                          "width": "100%"
+                                        },
+                                        "type": "View"
+                                      }
+                                    ],
+                                    "itemKey": 56,
+                                    "style": {
+                                      "flex_direction": "column",
+                                      "height": "100%",
+                                      "position": "absolute",
+                                      "right": "0",
+                                      "width": "30"
+                                    },
+                                    "type": "View"
+                                  },
+                                  {
+                                    "bindInfo": {
+                                      "LIZJ": {
+                                        "display": "option(data.global.is_small_mode, option(data.row_counter >= 5, 'flex', 'none'), option(data.row_counter >= 6, 'flex', 'none'))"
+                                      }
+                                    },
+                                    "itemKey": 59,
+                                    "style": {
+                                      "bg_gradient": {
+                                        "colors": [
+                                          {
+                                            "color": "#00FFFFFF",
+                                            "location": 0
+                                          },
+                                          {
+                                            "color": "#FFFFFFFF",
+                                            "location": 1
+                                          }
+                                        ],
+                                        "degree": "180"
+                                      },
+                                      "bottom": "0",
+                                      "height": "26",
+                                      "position": "absolute",
+                                      "width": "100%"
+                                    },
+                                    "type": "View"
+                                  }
+                                ],
+                                "itemKey": 51,
+                                "style": {
+                                  "justify_content": "start"
+                                },
+                                "type": "View"
+                              },
+                              {
+                                "elements": [
+                                  {
+                                    "elements": [
+                                      {
+                                        "bindInfo": {
+                                          "LIZ": {
+                                            "click_action": "data.more_size_click_actions"
+                                          },
+                                          "LIZJ": {
+                                            "display": "option(data.recommend_size, null, 'none')"
+                                          }
+                                        },
+                                        "elements": [
+                                          {
+                                            "attr": {},
+                                            "bindInfo": {
+                                              "LIZIZ": {
+                                                "src": "data.recommend_user_avatar.url"
+                                              },
+                                              "LIZJ": {
+                                                "display": "option(data.recommend_user_avatar.url, null, 'none')",
+                                                "height": "option(data.global.is_small_mode, 14, 16)",
+                                                "width": "option(data.global.is_small_mode, 14, 16)"
+                                              }
+                                            },
+                                            "itemKey": 63,
+                                            "style": {
+                                              "flex_shrink": 0,
+                                              "margin": [
+                                                "0",
+                                                "4",
+                                                "0",
+                                                "0"
+                                              ],
+                                              "radius": [
+                                                8,
+                                                8,
+                                                8,
+                                                8
+                                              ]
+                                            },
+                                            "type": "Image"
+                                          },
+                                          {
+                                            "bindInfo": {
+                                              "LIZJ": {
+                                                "flex_shrink": "option(index == len(data.recommend_size) - 1, 1, 0)"
+                                              },
+                                              "LJ": {
+                                                "LIZ": "index",
+                                                "LIZIZ": "item",
+                                                "LIZJ": "data.recommend_size",
+                                                "LIZLLL": "",
+                                                "LJ": ""
+                                              }
+                                            },
+                                            "elements": [
+                                              {
+                                                "bindInfo": {
+                                                  "LIZJ": {
+                                                    "display": "option(index != 0, null, 'none')"
+                                                  }
+                                                },
+                                                "itemKey": 65,
+                                                "style": {
+                                                  "bg_color": "#1F161823",
+                                                  "height": "10",
+                                                  "margin": [
+                                                    "0",
+                                                    "6",
+                                                    "0",
+                                                    "6"
+                                                  ],
+                                                  "width": "1"
+                                                },
+                                                "type": "View"
+                                              },
+                                              {
+                                                "attr": {},
+                                                "bindInfo": {
+                                                  "LIZIZ": {
+                                                    "text": "item.text"
+                                                  },
+                                                  "LIZJ": {
+                                                    "font_color": "item.font_style.font_color",
+                                                    "font_size": "option(data.global.is_small_mode, item.font_style.font_size - 2, item.font_style.font_size)",
+                                                    "font_weight": "item.font_style.font_weight"
+                                                  }
+                                                },
+                                                "itemKey": 66,
+                                                "style": {
+                                                  "end_ellipse": true,
+                                                  "flex_shrink": 1
+                                                },
+                                                "type": "Text"
+                                              }
+                                            ],
+                                            "itemKey": 64,
+                                            "style": {
+                                              "align_items": "center"
+                                            },
+                                            "type": "View"
+                                          }
+                                        ],
+                                        "itemKey": 62,
+                                        "style": {
+                                          "align_items": "center"
+                                        },
+                                        "type": "View"
+                                      },
+                                      {
+                                        "bindInfo": {
+                                          "LIZJ": {
+                                            "display": "option(data.recommend_size, null, 'none')"
+                                          }
+                                        },
+                                        "itemKey": 67,
+                                        "style": {
+                                          "flex_grow": 5
+                                        },
+                                        "type": "View"
+                                      },
+                                      {
+                                        "bindInfo": {
+                                          "LIZ": {
+                                            "click_action": "data.more_size_click_actions"
+                                          },
+                                          "LIZJ": {
+                                            "display": "option(data.more_size_text, null, 'none')"
+                                          }
+                                        },
+                                        "elements": [
+                                          {
+                                            "attr": {},
+                                            "bindInfo": {
+                                              "LIZIZ": {
+                                                "text": "data.more_size_text"
+                                              },
+                                              "LIZJ": {
+                                                "font_size": "option(data.global.is_small_mode, 10, 12)"
+                                              }
+                                            },
+                                            "itemKey": 69,
+                                            "style": {
+                                              "flex_shrink": 0,
+                                              "font_color": "#FF161823",
+                                              "font_weight": 400
+                                            },
+                                            "type": "Text"
+                                          },
+                                          {
+                                            "attr": {
+                                              "src": "https://p26-detailpage.byteimg.com/tos-cn-i-ojoqa5bfdv/%E7%AE%AD%E5%A4%B4icon%E7%81%B0%E8%89%B2.png~tplv-ojoqa5bfdv-image.image"
+                                            },
+                                            "itemKey": 70,
+                                            "style": {
+                                              "flex_shrink": 0,
+                                              "height": "11",
+                                              "margin": [
+                                                "0",
+                                                "0",
+                                                "0",
+                                                "2"
+                                              ],
+                                              "width": "11"
+                                            },
+                                            "type": "Image"
+                                          }
+                                        ],
+                                        "itemKey": 68,
+                                        "style": {
+                                          "align_items": "center",
+                                          "flex_shrink": 0
+                                        },
+                                        "type": "View"
+                                      }
+                                    ],
+                                    "itemKey": 61,
+                                    "style": {
+                                      "align_items": "center",
+                                      "align_self": "center",
+                                      "bg_color": "#FFEEEEEE",
+                                      "flex_shrink": 0,
+                                      "justify_content": "center",
+                                      "min_height": "37",
+                                      "padding": [
+                                        "10",
+                                        "16",
+                                        "10",
+                                        "16"
+                                      ],
+                                      "width": "100%"
+                                    },
+                                    "type": "View"
+                                  }
+                                ],
+                                "itemKey": 60,
+                                "style": {
+                                  "align_items": "center",
+                                  "flex_direction": "column",
+                                  "flex_shrink": 0,
+                                  "width": "100%"
+                                },
+                                "type": "View"
+                              }
+                            ],
+                            "itemKey": 50,
+                            "style": {
+                              "flex_direction": "column",
+                              "radius": [
+                                12,
+                                12,
+                                12,
+                                12
+                              ]
+                            },
+                            "type": "View"
+                          }
+                        ],
+                        "itemKey": 39,
+                        "style": {
+                          "flex_direction": "column",
+                          "flex_grow": 1,
+                          "justify_content": "center"
+                        },
+                        "type": "View"
+                      }
+                    ],
+                    "itemKey": 38,
+                    "style": {
+                      "align_items": "stretch",
+                      "flex_direction": "column",
+                      "height": "100%",
+                      "width": "100%"
+                    },
+                    "type": "View"
+                  }
+                ],
+                "itemKey": 37,
+                "meta": {
+                  "LIZ": "std_size_helper",
+                  "LIZIZ": "1"
+                },
+                "style": {
+                  "align_items": "stretch",
+                  "bg_color": "#FFF5F6F9",
+                  "flex_direction": "column"
+                },
+                "type": "View"
+              },
+              "sliceTemplateData": {
+                "col_counter": 2,
+                "margin": [
+                  "24",
+                  "16",
+                  "59",
+                  "16"
+                ],
+                "more_size_click_actions": {
+                  "actions": [
+                    {
+                      "fields": {
+                        "btm_fields": {
+                          "btm_code": "a1.b8094.c0645.d917981"
+                        },
+                        "schema": "sslocal://webcast_lynxview?type=popup&gravity=bottom&height_percent=73&top_level=1&mask_alpha=0.34&add_safe_area_height=0&use_real_screen_height=1&radius=20&url=https%3A%2F%2Flf-webcast-sourcecdn-tos.bytegecko.com%2Fobj%2Fbyte-gurd-source%2F10181%2Fgecko%2Fresource%2Fecommerce_size_helper%2Fsize_helper%2Fassistant%2Ftemplate.js&product_id=3623922725166447534&anchor_point=reference"
+                      },
+                      "type": "openSchema"
+                    },
+                    {
+                      "fields": {
+                        "btm_id": "a1.b8094.c0645.d917981",
+                        "event_name": "pdp_header_size_reference_click"
+                      },
+                      "type": "tracker"
+                    }
+                  ],
+                  "type": "Group"
+                },
+                "more_size_text": "更多尺码参考",
+                "recommend_size": [
+                  {
+                    "font_style": {
+                      "font_color": "FF161823",
+                      "font_size": 12,
+                      "font_weight": 400
+                    },
+                    "text": "175cm"
+                  },
+                  {
+                    "font_style": {
+                      "font_color": "FF161823",
+                      "font_size": 12,
+                      "font_weight": 400
+                    },
+                    "text": "160斤"
+                  },
+                  {
+                    "font_style": {
+                      "font_color": "FF161823",
+                      "font_size": 12,
+                      "font_weight": 400
+                    },
+                    "text": "已购L"
+                  }
+                ],
+                "recommend_user_avatar": {
+                  "url": "http://p3-item.ecombdimg.com/tos-cn-i-5mmsx3fupr/65c60e3cb276998acab3722a1d91d6c9.png~tplv-5mmsx3fupr-image.webp"
+                },
+                "row_counter": 5,
+                "sheet": [
+                  {
+                    "sheet_items": [
+                      {
+                        "bg_style": {
+                          "background_color": "#FF161823"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FFFFFFFF",
+                            "font_size": 12,
+                            "font_weight": 600
+                          },
+                          "text": "尺码"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 14,
+                            "font_weight": 600
+                          },
+                          "text": "S"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 14,
+                            "font_weight": 600
+                          },
+                          "text": "M"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 14,
+                            "font_weight": 600
+                          },
+                          "text": "L"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 14,
+                            "font_weight": 600
+                          },
+                          "text": "XL"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 14,
+                            "font_weight": 600
+                          },
+                          "text": "XXL"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "sheet_items": [
+                      {
+                        "bg_style": {
+                          "background_color": "#FF161823"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FFFFFFFF",
+                            "font_size": 10,
+                            "font_weight": 400
+                          },
+                          "text": "体重（斤）"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 10,
+                            "font_weight": 400
+                          },
+                          "text": "165"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 10,
+                            "font_weight": 400
+                          },
+                          "text": "170"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 10,
+                            "font_weight": 400
+                          },
+                          "text": "175"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 10,
+                            "font_weight": 400
+                          },
+                          "text": "180"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 10,
+                            "font_weight": 400
+                          },
+                          "text": "185"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "sheet_items": [
+                      {
+                        "bg_style": {
+                          "background_color": "#FF161823"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FFFFFFFF",
+                            "font_size": 10,
+                            "font_weight": 400
+                          },
+                          "text": "身高（cm）"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 10,
+                            "font_weight": 400
+                          },
+                          "text": "60"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 10,
+                            "font_weight": 400
+                          },
+                          "text": "65"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 10,
+                            "font_weight": 400
+                          },
+                          "text": "70"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 10,
+                            "font_weight": 400
+                          },
+                          "text": "75"
+                        }
+                      },
+                      {
+                        "bg_style": {
+                          "background_color": "#FFFFFFFF"
+                        },
+                        "text": {
+                          "font_style": {
+                            "font_color": "#FF161823",
+                            "font_size": 10,
+                            "font_weight": 400
+                          },
+                          "text": "80"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "title": "尺码助手",
+                "title_desc": {
+                  "font_style": {
+                    "font_color": "#88161823",
+                    "font_size": 12,
+                    "font_weight": 400
+                  },
+                  "text": "单位cm，斤"
+                },
+                "user_avatar": {
+                  "url": "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_c5dcb4d3144f4bcdacaaf7a8c2f64a60~c5_168x168.webp?from=3782654143"
+                },
+                "user_info_display": true,
+                "user_size_click_actions": {
+                  "actions": [
+                    {
+                      "fields": {
+                        "btm_fields": {
+                          "btm_code": "a1.b8094.c0645.d917981"
+                        },
+                        "schema": "sslocal://webcast_lynxview?type=popup&gravity=bottom&height_percent=73&top_level=1&mask_alpha=0.34&add_safe_area_height=0&use_real_screen_height=1&radius=20&url=https%3A%2F%2Flf-webcast-sourcecdn-tos.bytegecko.com%2Fobj%2Fbyte-gurd-source%2F10181%2Fgecko%2Fresource%2Fecommerce_size_helper%2Fsize_helper%2Fassistant%2Ftemplate.js&product_id=3623922725166447534"
+                      },
+                      "type": "openSchema"
+                    },
+                    {
+                      "fields": {
+                        "btm_id": "a1.b8094.c0645.d917981",
+                        "event_name": "pdp_header_size_click"
+                      },
+                      "type": "tracker"
+                    }
+                  ],
+                  "type": "Group"
+                },
+                "user_size_text": [
+                  {
+                    "font_style": {
+                      "font_color": "FF161823",
+                      "font_size": 12,
+                      "font_weight": 400
+                    },
+                    "text": "录入我的尺码"
+                  }
+                ]
+              }
+            },
+            "track": {
+              "type": "size"
+            }
+          }
+        ],
+        "footer": {
+          "scrollAction": {
+            "actions": [
+              {
+                "data": {
+                  "type": "HeadFeedback"
+                },
+                "hasDynamicProp": false
+              },
+              {
+                "data": {
+                  "fields": {
+                    "btm_fields": {
+                      "btm_code": "a1.b8094.c0645.d17406"
+                    },
+                    "url": "sslocal://goods/store?enter_store_page_params=%7B%22commodity_type%22%3A6%2C%22product_id%22%3A%223623922725166447534%22%2C%22shop_id%22%3A%2212788472%22%2C%22page_type%22%3A%22full_screen%22%2C%22enter_from%22%3A%22product_detail_card%22%2C%22entrance_location%22%3A%22header_area%22%2C%22brand_verified%22%3A%221%22%2C%22commodity_id%22%3A%223623922725166447534%22%7D&entrance_info=%7B%22item_id%22%3A%220%22%7D&entrance_location=header_area&pass_through_api=%7B%7D&pre_product_id=3623922725166447534&pre_room_id=&sec_shop_id=CetHgQNE&source_product_id=3623922725166447534&tab_id=3&url_maker=shop_sdk"
+                  },
+                  "type": "HeadJump"
+                },
+                "hasDynamicProp": false
+              },
+              {
+                "data": {
+                  "fields": {
+                    "btm_id": "a1.b8094.c0645.d17406",
+                    "event_name": "click_store_entrance",
+                    "event_params": {
+                      "entrance_location": "header_area",
+                      "pre_product_id": "3623922725166447534",
+                      "store_group_type": "",
+                      "store_source_method": "search_ecommerce",
+                      "store_source_page": "search_ecommerce"
+                    }
+                  },
+                  "type": "HeadTrack"
+                },
+                "hasDynamicProp": false
+              }
+            ],
+            "data": {
+              "actions": [
+                {
+                  "type": "HeadFeedback"
+                },
+                {
+                  "fields": {
+                    "btm_fields": {
+                      "btm_code": "a1.b8094.c0645.d17406"
+                    },
+                    "url": "sslocal://goods/store?enter_store_page_params=%7B%22commodity_type%22%3A6%2C%22product_id%22%3A%223623922725166447534%22%2C%22shop_id%22%3A%2212788472%22%2C%22page_type%22%3A%22full_screen%22%2C%22enter_from%22%3A%22product_detail_card%22%2C%22entrance_location%22%3A%22header_area%22%2C%22brand_verified%22%3A%221%22%2C%22commodity_id%22%3A%223623922725166447534%22%7D&entrance_info=%7B%22item_id%22%3A%220%22%7D&entrance_location=header_area&pass_through_api=%7B%7D&pre_product_id=3623922725166447534&pre_room_id=&sec_shop_id=CetHgQNE&source_product_id=3623922725166447534&tab_id=3&url_maker=shop_sdk"
+                  },
+                  "type": "HeadJump"
+                },
+                {
+                  "fields": {
+                    "btm_id": "a1.b8094.c0645.d17406",
+                    "event_name": "click_store_entrance",
+                    "event_params": {
+                      "entrance_location": "header_area",
+                      "pre_product_id": "3623922725166447534",
+                      "store_group_type": "",
+                      "store_source_method": "search_ecommerce",
+                      "store_source_page": "search_ecommerce"
+                    }
+                  },
+                  "type": "HeadTrack"
+                }
+              ],
+              "type": "Group"
+            },
+            "hasDynamicProp": false
+          },
+          "slice": {
+            "hasReportedShowEvent": false,
+            "sliceId": "footer",
+            "sliceTemplate": {
+              "elements": [
+                {
+                  "attr": {},
+                  "bindInfo": {
+                    "LIZIZ": {
+                      "src": "data.img"
+                    }
+                  },
+                  "itemKey": 72,
+                  "style": {
+                    "aspect_ratio": 0.187,
+                    "width": "100%"
+                  },
+                  "type": "Image"
+                }
+              ],
+              "itemKey": 71,
+              "style": {
+                "align_items": "center",
+                "display": "flex",
+                "flex_direction": "row",
+                "height": "100%",
+                "justify_content": "center",
+                "width": "70"
+              },
+              "type": "View"
+            },
+            "sliceTemplateData": {
+              "img": "https://p26-detailpage.byteimg.com/tos-cn-i-ojoqa5bfdv/118ca5832d492877b0ff498c49a92515.png~tplv-ojoqa5bfdv-image.image"
+            }
+          },
+          "url": "sslocal://goods/store?enter_store_page_params=%7B%22commodity_type%22%3A6%2C%22product_id%22%3A%223623922725166447534%22%2C%22shop_id%22%3A%2212788472%22%2C%22page_type%22%3A%22full_screen%22%2C%22enter_from%22%3A%22product_detail_card%22%2C%22entrance_location%22%3A%22header_area%22%2C%22brand_verified%22%3A%221%22%2C%22commodity_id%22%3A%223623922725166447534%22%7D&entrance_info=%7B%22item_id%22%3A%220%22%7D&entrance_location=header_area&pass_through_api=%7B%7D&pre_product_id=3623922725166447534&pre_room_id=&sec_shop_id=CetHgQNE&source_product_id=3623922725166447534&tab_id=3&url_maker=shop_sdk"
+        },
+        "identifier": "201ce869-2a24-4ae5-bd65-6d6a460f90c4",
+        "itemKey": 40,
+        "pendants": [
+          {
+            "id": "tab",
+            "native": {
+              "expand": true,
+              "headerTabs": [
+                {
+                  "LIZ": "商品",
+                  "LIZIZ": 0,
+                  "LIZJ": 6,
+                  "LIZLLL": {
+                    "images_show_name": "picture_video",
+                    "images_tab_name": "product",
+                    "images_tab_status": "shrink",
+                    "pd_headvideo_size": "3_4",
+                    "tab_rank": 1,
+                    "type": "product"
+                  }
+                },
+                {
+                  "LIZ": "尺码",
+                  "LIZIZ": 6,
+                  "LIZJ": 1,
+                  "LIZLLL": {
+                    "images_show_name": "picture",
+                    "images_tab_name": "size",
+                    "images_tab_status": "shrink",
+                    "tab_rank": 2,
+                    "type": "size"
+                  }
+                }
+              ],
+              "maxTabNum": 4
+            }
+          }
+        ],
+        "previewMeta": {},
+        "scrollConfig": {
+          "LIZ": "id_head_view",
+          "LIZIZ": 0
+        },
+        "sizeType": 0,
+        "tags": {},
+        "trackMeta": {
+          "anchor_id": "99514375927",
+          "enter_from_merge": "product_detail_page",
+          "enter_method": "head_icon",
+          "pre_product_id": "3623922725166447534",
+          "room_id": "7348692470387198732"
+        }
+      },
+      "pageConfig": {
+        "collapseDetail": false,
+        "collapseIgnoreList": [
+          "GirdleAreaGroup",
+          "BaseInfoGroup",
+          "BaseInfoMaskGroup"
+        ]
+      },
+      "pageMeta": {
+        "commonMeta": {
+          "activityInfo": {
+            "activityType": 0,
+            "auctionStatus": 0,
+            "discountPrice": {
+              "bgType": 1,
+              "comma": false,
+              "font": {
+                "LIZ": {
+                  "fontSize": 15,
+                  "fontWeight": 600,
+                  "line": 1,
+                  "textColor": "#FFFE2C55"
+                },
+                "LIZIZ": {
+                  "fontSize": 15,
+                  "fontWeight": 600,
+                  "line": 1,
+                  "textColor": "#FFFE2C55"
+                },
+                "LIZJ": {
+                  "fontSize": 13,
+                  "fontWeight": 600,
+                  "line": 1,
+                  "textColor": "#FFFE2C55"
+                }
+              },
+              "isStrikeThrough": false,
+              "prefix": {
+                "fontStyle": {
+                  "fontSize": 11,
+                  "fontWeight": 500,
+                  "line": 1,
+                  "textColor": "#FFFE2C55"
+                },
+                "text": "券后",
+                "textGravity": 0,
+                "truncate": "end"
+              },
+              "priceInfo": {
+                "minPrice": 19200,
+                "priceInString": ""
+              },
+              "priceType": 0
+            },
+            "groupId": 0,
+            "groupSize": 0,
+            "isGroupBuying": false,
+            "joined": 0,
+            "percent": 0,
+            "price": {
+              "bgType": 0,
+              "comma": false,
+              "font": {
+                "LIZ": {
+                  "fontSize": 17,
+                  "fontWeight": 500,
+                  "line": 1,
+                  "textColor": "#FFFFFFFF"
+                },
+                "LIZIZ": {
+                  "fontSize": 17,
+                  "fontWeight": 500,
+                  "line": 1,
+                  "textColor": "#FFFFFFFF"
+                },
+                "LIZJ": {
+                  "fontSize": 15,
+                  "fontWeight": 500,
+                  "line": 1,
+                  "textColor": "#FFFFFFFF"
+                }
+              },
+              "isStrikeThrough": false,
+              "priceInfo": {
+                "minPrice": 20200,
+                "priceInString": ""
+              },
+              "priceType": 0
+            },
+            "sales": {
+              "fontStyle": {
+                "fontSize": 10,
+                "fontWeight": 400,
+                "line": 1,
+                "textColor": "#FFFFFFFF"
+              },
+              "text": "已售 4491",
+              "textGravity": 0,
+              "truncate": "end"
+            },
+            "skuMaxPrice": 0,
+            "skuMinPrice": 0
+          },
+          "applyCoupon": 1,
+          "authorId": "99514375927",
+          "avlDiscount": "1",
+          "bottomRightControl": {
+            "backToTopBtn": {
+              "bottomMargin": 127
+            },
+            "shopEntry": {
+              "bottomMargin": 332
+            },
+            "smallWindow": {
+              "bottomMargin": 103
+            }
+          },
+          "brandVerified": "1",
+          "buttonStatus": "0",
+          "buyinTrack": "",
+          "cBizCombo": "8",
+          "campaignType": "",
+          "carrierSource": "search_ecommerce",
+          "channelId": "",
+          "channelType": 0,
+          "commentEnterFrom": 0,
+          "commentMonitorName": "",
+          "couponId": "",
+          "cpsTrack": "",
+          "deliveryDelayDes": "",
+          "discountMinPrice": 19200,
+          "eComEntranceForm": "product_card",
+          "ecomSceneId": "1082",
+          "enterMethod": "ec_result",
+          "entranceInfo": "{\"EVENT_ORIGIN_FEATURE\":\"TEMAI\",\"brand_verified\":1,\"business_tag\":\"\",\"campaign_sub_type\":\"\",\"campaign_type\":\"\",\"card_status\":\"\",\"carrier_source\":\"search_ecommerce\",\"discount_type\":\"{130:7347363545866846505}\",\"ecom_group_type\":\"\",\"ecom_icon\":\"\",\"ecom_scene_id\":\"1082\",\"forbid_popup\":true,\"full_return\":\"0\",\"has_rank_id\":\"\",\"is_activity_banner\":0,\"is_exist_size_tab\":\"1\",\"is_groupbuying\":0,\"is_package_sale\":0,\"is_replay\":0,\"is_short_screen\":\"0\",\"is_with_video\":1,\"label_name\":\"aweme_flagship,\",\"market_channel_hot_fix\":\"\",\"module_label\":\"\",\"product_activity_type\":\"nonactivity\",\"rank_id_source\":\"\",\"search_id\":\"20231027115647D834AFAD97C79D9E009A\",\"search_keyword\":\"毛巾\",\"search_params\":{\"search_id\":\"20231027115647D834AFAD97C79D9E009A\",\"search_result_id\":\"3627799996457432165\"},\"sellpoint_bp\":\"1086`12`0`近90天4万+人逛过\",\"show_dou_campaign\":0,\"show_rank\":\"show_rank\",\"source_method\":\"product_card\",\"upfront_presell\":0,\"warm_up_status\":\"0\",\"with_discount_group\":\"0\"}",
+          "followStatus": 0,
+          "forbidSkuSwitch": "0",
+          "fromLive": false,
+          "fromVideo": false,
+          "gulCacheId": "20053",
+          "gulVHCount": 0,
+          "hasReplay": "0",
+          "isAuthenticInsure": "1",
+          "isBottomTipExist": false,
+          "isCrossBorderProduct": false,
+          "isGalleryOpen": false,
+          "isHeadViewScrollToGUL": false,
+          "isLiked": false,
+          "isLuban": false,
+          "isScreenShotPaused": false,
+          "isVirtual": false,
+          "itemId": "",
+          "kolUserTags": "0",
+          "labelName": "aweme_flagship,",
+          "liveRoomId": "",
+          "logData": "{\"user_open_fxh_flag\":\"false\",\"shop_open_fxh_flag\":\"false\",\"discount_type\":\"{130:7347363545866846505}\",\"discount_activity_type\":\"130\",\"discount_activity_id\":\"7347363545866846505\",\"fxh_white_list_flag\":\"false\",\"bind_card_flag\":\"false\",\"discount_label_info\":\"700:7347363545866846505\",\"avl_discount\":\"1\"}",
+          "marketingChannel": "",
+          "metaParam": "{\"entrance_info\":\"{\\\"carrier_source\\\":\\\"search_ecommerce\\\",\\\"source_method\\\":\\\"product_card\\\",\\\"search_id\\\":\\\"20231027115647D834AFAD97C79D9E009A\\\",\\\"product_activity_type\\\":\\\"nonactivity\\\",\\\"EVENT_ORIGIN_FEATURE\\\":\\\"TEMAI\\\",\\\"search_params\\\":{\\\"search_id\\\":\\\"20231027115647D834AFAD97C79D9E009A\\\",\\\"search_result_id\\\":\\\"3627799996457432165\\\"},\\\"search_keyword\\\":\\\"毛巾\\\",\\\"ecom_scene_id\\\":\\\"1082\\\",\\\"ecom_group_type\\\":\\\"\\\",\\\"card_status\\\":\\\"\\\",\\\"module_label\\\":\\\"\\\",\\\"ecom_icon\\\":\\\"\\\"}\"}",
+          "originId": "99514375927_3623922725166447534",
+          "originType": "3002070010",
+          "pageId": "",
+          "payType": "1",
+          "pdpBusinessFlags": {
+            "enablePDPOptimize": 7
+          },
+          "preSellType": 1,
+          "presellType": 1,
+          "productBuyStatus": "normal",
+          "productCommentDataType": 2,
+          "productDeleted": false,
+          "productId": "3623922725166447534",
+          "productIsInvalid": false,
+          "productMinPrice": 20200,
+          "productType": 0,
+          "promotionId": "3623922725166447534",
+          "promotionSource": 6,
+          "rebateId": "B202403201518329519000577",
+          "requestAdditions": "{\"sec_author_id\":\"\",\"ecom_scene_id\":\"1082\",\"enter_from\":\"order_merge_page\"}",
+          "screenShotParams": "{\"item_id\":\"\",\"product_id\":\"3623922725166447534\",\"promotion_id\":\"3623922725166447534\",\"meta_param\":\"{\\\"page_type\\\":null,\\\"enter_from\\\":\\\"\\\",\\\"is_ad_traffic\\\":false,\\\"is_star_atlas\\\":false,\\\"entrance_info\\\":\\\"{\\\\\\\"EVENT_ORIGIN_FEATURE\\\\\\\":\\\\\\\"TEMAI\\\\\\\",\\\\\\\"card_status\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"carrier_source\\\\\\\":\\\\\\\"search_ecommerce\\\\\\\",\\\\\\\"ecom_group_type\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"ecom_icon\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"module_label\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"product_activity_type\\\\\\\":\\\\\\\"nonactivity\\\\\\\",\\\\\\\"search_id\\\\\\\":\\\\\\\"20231027115647D834AFAD97C79D9E009A\\\\\\\",\\\\\\\"search_keyword\\\\\\\":\\\\\\\"毛巾\\\\\\\",\\\\\\\"search_params\\\\\\\":{\\\\\\\"search_id\\\\\\\":\\\\\\\"20231027115647D834AFAD97C79D9E009A\\\\\\\",\\\\\\\"search_result_id\\\\\\\":\\\\\\\"3627799996457432165\\\\\\\"},\\\\\\\"source_method\\\\\\\":\\\\\\\"product_card\\\\\\\"}\\\",\\\"live_room_id\\\":\\\"\\\",\\\"need_shop_category\\\":false,\\\"request_from\\\":\\\"\\\",\\\"shop_ad_data\\\":\\\"\\\",\\\"small_video_id\\\":\\\"\\\",\\\"AdDataStruct\\\":null,\\\"personal_extra\\\":null}\",\"sec_author_id\":\"\",\"price\":\"20200\",\"promotion_source\":\"6\",\"shop_id\":\"12788472\",\"author_id\":\"99514375927\"}",
+          "screenShotPopupSchema": "sslocal://webcast_lynxview?top_level=1&url=https%3A%2F%2Flf-webcast-sourcecdn-tos.bytegecko.com%2Fobj%2Fbyte-gurd-source%2Fwebcast%2Fecom%2Flynx%2Ffe_reactlynx_goods_detail_screenshot_popup%2Ffind_more%2Ftemplate.js%3Fjump_url%3Daweme%253A%252F%252Fsearch%252Fphoto%253Fproduct_id%253D3623922725166447534%2526extra%253D%25257B%252522ecom_scene_id%252522%25253A%252522%252522%25257D%2526enter_from%253Dsearch_product_detail%2526search_channel%253Decom_mms_sim_product%2526enter_method%253Dscreen_shot%2526search_scan_params%253D%25257B%252522photo_search_previous_page%252522%25253A%252522search_ecommerce%252522%25252C%252522enter_from_second%252522%25253A%252522product_detail__search_ecommerce%252522%25257D%2526group_id%253D3623922725166447534%26feedback_url%3D%26new_same_button%3Dfalse&type=popup&height_percent=100&width_percent=100&gravity=bottom&mask_alpha=0.6",
+          "searchPageParams": {},
+          "secAuthorId": "",
+          "shopId": "12788472",
+          "showInstallmentFlag": false,
+          "skuId": "",
+          "sourceMethod": "product_card",
+          "sourcePage": "search_ecommerce",
+          "supermarketType": 0,
+          "tagGuaranteeHeader": "",
+          "thirdParty": false,
+          "threeDLogData": "",
+          "trackExtra": "{\"add_cart_source\":\"video\",\"buyin_track\":\"\",\"c_biz_combo\":\"8\",\"cart_track\":\"{\\\"EVENT_ORIGIN_FEATURE\\\":\\\"TEMAI\\\",\\\"anchor_id\\\":\\\"\\\",\\\"brand_verified\\\":1,\\\"business_tag\\\":\\\"\\\",\\\"campaign_sub_type\\\":\\\"\\\",\\\"campaign_type\\\":\\\"\\\",\\\"card_status\\\":\\\"\\\",\\\"carrier_source\\\":\\\"search_ecommerce\\\",\\\"discount_type\\\":\\\"{130:7347363545866846505}\\\",\\\"ecom_group_type\\\":\\\"\\\",\\\"ecom_icon\\\":\\\"\\\",\\\"ecom_scene_id\\\":\\\"1082\\\",\\\"forbid_popup\\\":true,\\\"full_return\\\":\\\"0\\\",\\\"group_id\\\":\\\"\\\",\\\"has_rank_id\\\":\\\"\\\",\\\"is_activity_banner\\\":0,\\\"is_exist_size_tab\\\":\\\"1\\\",\\\"is_groupbuying\\\":0,\\\"is_package_sale\\\":0,\\\"is_replay\\\":0,\\\"is_short_screen\\\":\\\"0\\\",\\\"is_with_video\\\":1,\\\"label_name\\\":\\\"aweme_flagship,\\\",\\\"market_channel_hot_fix\\\":\\\"\\\",\\\"module_label\\\":\\\"\\\",\\\"product_activity_type\\\":\\\"nonactivity\\\",\\\"promotion_id\\\":\\\"\\\",\\\"rank_id_source\\\":\\\"\\\",\\\"room_id\\\":\\\"\\\",\\\"search_id\\\":\\\"20231027115647D834AFAD97C79D9E009A\\\",\\\"search_keyword\\\":\\\"毛巾\\\",\\\"search_params\\\":{\\\"search_id\\\":\\\"20231027115647D834AFAD97C79D9E009A\\\",\\\"search_result_id\\\":\\\"3627799996457432165\\\"},\\\"sellpoint_bp\\\":\\\"1086`12`0`近90天4万+人逛过\\\",\\\"show_dou_campaign\\\":0,\\\"show_rank\\\":\\\"show_rank\\\",\\\"source_method\\\":\\\"product_card\\\",\\\"upfront_presell\\\":0,\\\"warm_up_status\\\":\\\"0\\\",\\\"with_discount_group\\\":\\\"0\\\"}\",\"category_id\":\"20053\",\"inflow_list_type\":\"\",\"is_second_hand\":\"\",\"is_spot_goods\":\"\",\"pdp_price_sku_id\":\"1773201114055725\",\"pickup_coupon_type\":\"0\",\"presell\":\"\",\"rank_id\":\"\",\"rank_name\":\"\",\"sellpoint_bp\":\"1086`12`0`近90天4万+人逛过\",\"show_sku_discount_price\":\"{\\\"show_price\\\":\\\"19200\\\",\\\"sku_id_list\\\":\\\"1773201114056749,1773201114056733,1773201114055725,1773201114056765,1773201114057741\\\"}\",\"store_author_level\":\"\",\"store_is_follow\":\"\",\"store_product_count\":\"\",\"tag_code\":\"\"}",
+          "userAddrId": "0",
+          "v3EventsAdditions": "{\"search_params\":{\"search_id\":\"20231027115647D834AFAD97C79D9E009A\",\"search_result_id\":\"3627799996457432165\"}}",
+          "withSku": "1",
+          "withVideo": "1"
+        },
+        "serverMonitorMeta": {
+          "BatchGetProduct2C": "7",
+          "FetchRitTag": "103",
+          "ProductSkuPurchaseInfo": "42",
+          "caijing_GetDouInstallmentInfo": "81",
+          "campaign_GetAutoApplyCoupon": "75",
+          "campaign_MeGetMarketingResource": "72",
+          "check_sign": "0",
+          "latency_ab_latency": "2",
+          "latency_api_total": "246",
+          "pack_rpc": "237",
+          "promise_GetPromiseInfo": "27",
+          "request_pre_check": "8"
+        },
+        "trackMeta": {
+          "EVENT_ORIGIN_FEATURE": "TEMAI",
+          "action_type": "",
+          "author_id": "99514375927",
+          "baseverified_category": "0",
+          "bind_card_flag": "",
+          "biz_identifier_list": "default.fashion.default.Default.Default",
+          "button_status": "0",
+          "campaign_sub_type": "",
+          "campaign_type": "",
+          "carrier_source": "search_ecommerce",
+          "commodity_id": "3623922725166447534",
+          "commodity_type": "6",
+          "coupon_id": "",
+          "coupon_type": "",
+          "discount_count": 1,
+          "discount_type": "{130:7347363545866846505}",
+          "ecom_entrance_form": "product_card",
+          "ecom_group_type": "",
+          "ecom_pitaya_json_str": "{\"category_ids\":[\"20053\",\"20867\",\"0\",\"0\"]}",
+          "ecom_scene_id": "1082",
+          "entrance_info": "{\"EVENT_ORIGIN_FEATURE\":\"TEMAI\",\"brand_verified\":1,\"business_tag\":\"\",\"campaign_sub_type\":\"\",\"campaign_type\":\"\",\"card_status\":\"\",\"carrier_source\":\"search_ecommerce\",\"discount_type\":\"{130:7347363545866846505}\",\"ecom_group_type\":\"\",\"ecom_icon\":\"\",\"ecom_scene_id\":\"1082\",\"forbid_popup\":true,\"full_return\":\"0\",\"has_rank_id\":\"\",\"is_activity_banner\":0,\"is_exist_size_tab\":\"1\",\"is_groupbuying\":0,\"is_package_sale\":0,\"is_replay\":0,\"is_short_screen\":\"0\",\"is_with_video\":1,\"label_name\":\"aweme_flagship,\",\"market_channel_hot_fix\":\"\",\"module_label\":\"\",\"product_activity_type\":\"nonactivity\",\"rank_id_source\":\"\",\"search_id\":\"20231027115647D834AFAD97C79D9E009A\",\"search_keyword\":\"毛巾\",\"search_params\":{\"search_id\":\"20231027115647D834AFAD97C79D9E009A\",\"search_result_id\":\"3627799996457432165\"},\"sellpoint_bp\":\"1086`12`0`近90天4万+人逛过\",\"show_dou_campaign\":0,\"show_rank\":\"show_rank\",\"source_method\":\"product_card\",\"upfront_presell\":0,\"warm_up_status\":\"0\",\"with_discount_group\":\"0\"}",
+          "extra_campaign_type": "",
+          "follow_status": "0",
+          "fxh_white_list_flag": "false",
+          "goods_type": "",
+          "group_id": "",
+          "has_rank_id": "",
+          "head_video_id": "v02ecag10000ci1d4mjc77uc2n5gjgcg",
+          "industry_ranking_type": "normal",
+          "insurance_commodity_flag": "0",
+          "is_ad": "0",
+          "is_crossborder_goods": "0",
+          "is_hainan_membership": "1",
+          "is_new_goods_detail_flag": "1",
+          "is_recommended_reason": "0",
+          "is_replay": "0",
+          "is_sales_inherit_product": "0",
+          "is_sales_show": "1",
+          "is_ship_shop": "1",
+          "is_short_screen": "0",
+          "is_sku_pic": "0",
+          "is_under_stock": "0",
+          "is_with_video": "1",
+          "label_name": "aweme_flagship,",
+          "main_product_id": "",
+          "member_price_track": "",
+          "new_coupon_id": "",
+          "page_name": "product_detail",
+          "page_type": "full_screen",
+          "params_for_special": "tppp",
+          "pdp_session_id": "4510b0fe-0687-4304-b762-f09c1957c0dc",
+          "pickup_coupon_type": "0",
+          "price_type": "预售价,券后价",
+          "product_id": "3623922725166447534",
+          "product_type": "",
+          "query_id": "毛巾",
+          "ranking_num": "num+",
+          "ranking_type": "industry",
+          "room_id": "",
+          "sales_display_type": "sold",
+          "search_params": {
+            "search_id": "20231027115647D834AFAD97C79D9E009A",
+            "search_result_id": "3627799996457432165"
+          },
+          "shop_id": "12788472",
+          "shop_open_fxh_flag": "false",
+          "show_referrer": "0",
+          "show_sku_discount_price": {
+            "show_price": "19200",
+            "sku_id_list": "1773201114056749,1773201114056733,1773201114055725,1773201114056765,1773201114057741"
+          },
+          "source_method": "product_card",
+          "source_page": "search_ecommerce",
+          "store_id": 0,
+          "store_type": "shop",
+          "user_open_fxh_flag": "false",
+          "v3_event_additions": "{\"search_params\":{\"search_id\":\"20231027115647D834AFAD97C79D9E009A\",\"search_result_id\":\"3627799996457432165\"}}",
+          "virtual_commodity_flag": "0",
+          "warm_up_status": "0",
+          "with_coupon": "0",
+          "with_sku": "1"
+        }
+      },
+      "pendantInfo": {
+        "_sliceType": "PdpVO",
+        "componentId": "id_pendant_info",
+        "isFooter": false,
+        "isHeader": false,
+        "isHide": false,
+        "itemKey": 39,
+        "tags": {},
+        "track": {
+          "members": {}
+        },
+        "ui": {
+          "containerType": "native"
+        },
+        "version": 1,
+        "vo": {
+          "display": {
+            "members": {
+              "pendants": {
+                "members": {}
+              }
+            }
+          },
+          "meta": {
+            "members": {}
+          }
+        }
+      },
+      "scrollNodes": [
+        {
+          "id": "id_head_view",
+          "logName": "product",
+          "name": "商品"
+        },
+        {
+          "id": "id_comments",
+          "logName": "comment",
+          "name": "评价"
+        },
+        {
+          "id": "id_detail",
+          "logName": "detail",
+          "name": "详情"
+        },
+        {
+          "id": "id_recommend",
+          "logName": "recommend",
+          "name": "推荐"
+        }
+      ],
+      "shopFloatEntry": {
+        "_sliceType": "PdpVO",
+        "componentId": "id_shop_float_entry",
+        "isFooter": false,
+        "isHeader": false,
+        "isHide": false,
+        "itemKey": 35,
+        "tags": {},
+        "track": {
+          "members": {}
+        },
+        "ui": {
+          "containerType": "native"
+        },
+        "version": 1,
+        "vo": {
+          "display": {
+            "members": {
+              "entry_content": {
+                "members": {
+                  "action": {
+                    "members": {
+                      "check_params": {
+                        "value": "{\"check_login\":true}"
+                      },
+                      "id": {
+                        "value": "shop_jump_store"
+                      }
+                    }
+                  },
+                  "background": {
+                    "members": {
+                      "background_color": {
+                        "value": "#E6FF3B52"
+                      },
+                      "padding": {
+                        "members": {
+                          "bottom": {
+                            "value": {
+                              "value": "8"
+                            }
+                          },
+                          "left": {
+                            "value": {
+                              "value": "6"
+                            }
+                          },
+                          "right": {
+                            "value": {
+                              "value": "4"
+                            }
+                          },
+                          "top": {
+                            "value": {
+                              "value": "8"
+                            }
+                          }
+                        }
+                      },
+                      "radius": {
+                        "members": {
+                          "bottom_left": {
+                            "value": {
+                              "value": "18"
+                            }
+                          },
+                          "top_left": {
+                            "value": {
+                              "value": "18"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "head_buttons": {
+                    "members": {
+                      "button_list": {
+                        "elements": [
+                          {
+                            "members": {
+                              "align_strategy": {
+                                "value": {
+                                  "value": "1"
+                                }
+                              },
+                              "button_type": {
+                                "value": {
+                                  "value": "0"
+                                }
+                              },
+                              "icon": {
+                                "members": {
+                                  "native_model": {
+                                    "members": {
+                                      "height": {
+                                        "value": {
+                                          "value": "20"
+                                        }
+                                      },
+                                      "resource_name": {
+                                        "value": "goods_detail_living_lottie_white_BG"
+                                      },
+                                      "type": {
+                                        "value": {
+                                          "value": "1"
+                                        }
+                                      },
+                                      "width": {
+                                        "value": {
+                                          "value": "20"
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "space": {
+                                "value": {
+                                  "value": "0"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "members": {
+                              "align_strategy": {
+                                "value": {
+                                  "value": "1"
+                                }
+                              },
+                              "button_type": {
+                                "value": {
+                                  "value": "2"
+                                }
+                              },
+                              "content": {
+                                "members": {
+                                  "font_style": {
+                                    "members": {
+                                      "font_size": {
+                                        "value": {
+                                          "value": "14"
+                                        }
+                                      },
+                                      "font_weight": {
+                                        "value": {
+                                          "value": "500"
+                                        }
+                                      },
+                                      "line": {
+                                        "value": {
+                                          "value": "1"
+                                        }
+                                      },
+                                      "text_color": {
+                                        "value": "#FFFFFFFF"
+                                      }
+                                    }
+                                  },
+                                  "text": {
+                                    "value": "进店逛逛"
+                                  }
+                                }
+                              },
+                              "icon": {
+                                "members": {
+                                  "url_model": {
+                                    "members": {
+                                      "height": {
+                                        "value": {
+                                          "value": "20"
+                                        }
+                                      },
+                                      "uri": {
+                                        "value": "https://p26-item.ecombdimg.com/tos-cn-i-5mmsx3fupr/arrow-right.png~tplv-5mmsx3fupr-origin-png.png"
+                                      },
+                                      "url_list": {
+                                        "elements": [
+                                          {
+                                            "value": "https://p26-item.ecombdimg.com/tos-cn-i-5mmsx3fupr/arrow-right.png~tplv-5mmsx3fupr-origin-png.png"
+                                          }
+                                        ]
+                                      },
+                                      "width": {
+                                        "value": {
+                                          "value": "12"
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "space": {
+                                "value": {
+                                  "value": "0"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "scrollable": {
+                        "value": false
+                      },
+                      "space": {
+                        "value": {
+                          "value": "4"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "meta": {
+            "members": {
+              "business_meta": {
+                "members": {
+                  "is_store": {
+                    "value": true
+                  },
+                  "shop_author_id": {
+                    "value": "1253857218267805"
+                  },
+                  "shop_avatar_link": {
+                    "value": "sslocal://goods/store?sec_shop_id=CetHgQNE&entrance_location=product_detail_live&url_maker=shop_sdk&pass_through_api=%7B%7D"
+                  },
+                  "shop_nav_link": {
+                    "value": "aweme://user/profile/1253857218267805"
+                  },
+                  "shop_portfolio_url": {
+                    "value": "sslocal://goods/store?sec_shop_id=CetHgQNE&entrance_location=product_detail_live&url_maker=shop_sdk&pass_through_api=%7B%7D&entrance_info={\"item_id\":\"0\"}&pre_product_id=3623922725166447534"
+                  }
+                }
+              },
+              "track_meta": {
+                "members": {
+                  "is_exist_follow": {
+                    "value": false
+                  },
+                  "is_new_product": {
+                    "value": {
+                      "value": "1"
+                    }
+                  },
+                  "pre_product_id": {
+                    "value": "3623922725166447534"
+                  },
+                  "store_group_type": {
+                    "value": "video"
+                  },
+                  "store_source_method": {
+                    "value": "product_card"
+                  },
+                  "store_source_page": {
+                    "value": "search_ecommerce"
+                  },
+                  "store_type": {
+                    "value": "shop"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "topRightControls": {
+        "_sliceType": "PdpVO",
+        "componentId": "id_top_right_controls",
+        "isFooter": false,
+        "isHeader": false,
+        "isHide": false,
+        "itemKey": 38,
+        "tags": {},
+        "track": {
+          "members": {}
+        },
+        "ui": {
+          "containerType": "native"
+        },
+        "version": 1,
+        "vo": {
+          "display": {
+            "members": {
+              "dark_elements": {
+                "members": {
+                  "button_list": {
+                    "elements": [
+                      {
+                        "members": {
+                          "action": {
+                            "members": {
+                              "id": {
+                                "value": "action_search"
+                              }
+                            }
+                          },
+                          "background": {
+                            "members": {
+                              "background_color": {
+                                "value": "#57292929"
+                              },
+                              "padding": {
+                                "members": {
+                                  "bottom": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "left": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "right": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "top": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  }
+                                }
+                              },
+                              "radius": {
+                                "members": {
+                                  "bottom_left": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "bottom_right": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "top_left": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "top_right": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "button_type": {
+                            "value": {
+                              "value": "1"
+                            }
+                          },
+                          "content_description": {
+                            "value": "搜索"
+                          },
+                          "element_id": {
+                            "value": "top_right_search"
+                          },
+                          "icon": {
+                            "members": {
+                              "native_model": {
+                                "members": {
+                                  "height": {
+                                    "value": {
+                                      "value": "24"
+                                    }
+                                  },
+                                  "resource_name": {
+                                    "value": "resource_top_right_search_dark_icon"
+                                  },
+                                  "type": {},
+                                  "width": {
+                                    "value": {
+                                      "value": "24"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "show_first_screen": {
+                            "value": true
+                          }
+                        }
+                      },
+                      {
+                        "members": {
+                          "action": {
+                            "members": {
+                              "id": {
+                                "value": "action_collect"
+                              },
+                              "ref_id": {
+                                "value": "ref_dark_icon"
+                              }
+                            }
+                          },
+                          "background": {
+                            "members": {
+                              "background_color": {
+                                "value": "#57292929"
+                              },
+                              "padding": {
+                                "members": {
+                                  "bottom": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "left": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "right": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "top": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  }
+                                }
+                              },
+                              "radius": {
+                                "members": {
+                                  "bottom_left": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "bottom_right": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "top_left": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "top_right": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "button_type": {
+                            "value": {
+                              "value": "1"
+                            }
+                          },
+                          "content_description": {
+                            "value": "点击收藏"
+                          },
+                          "element_id": {
+                            "value": "top_right_collect"
+                          },
+                          "icon": {
+                            "members": {
+                              "native_model": {
+                                "members": {
+                                  "height": {
+                                    "value": {
+                                      "value": "24"
+                                    }
+                                  },
+                                  "resource_name": {
+                                    "value": "resource_top_right_collect_dark_icon"
+                                  },
+                                  "type": {},
+                                  "width": {
+                                    "value": {
+                                      "value": "24"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "show_first_screen": {
+                            "value": true
+                          },
+                          "states": {
+                            "elements": [
+                              {
+                                "members": {
+                                  "action": {
+                                    "members": {
+                                      "id": {
+                                        "value": "action_collect"
+                                      },
+                                      "ref_id": {
+                                        "value": "ref_dark_icon"
+                                      }
+                                    }
+                                  },
+                                  "background": {
+                                    "members": {
+                                      "background_color": {
+                                        "value": "#57292929"
+                                      },
+                                      "padding": {
+                                        "members": {
+                                          "bottom": {
+                                            "value": {
+                                              "value": "7"
+                                            }
+                                          },
+                                          "left": {
+                                            "value": {
+                                              "value": "7"
+                                            }
+                                          },
+                                          "right": {
+                                            "value": {
+                                              "value": "7"
+                                            }
+                                          },
+                                          "top": {
+                                            "value": {
+                                              "value": "7"
+                                            }
+                                          }
+                                        }
+                                      },
+                                      "radius": {
+                                        "members": {
+                                          "bottom_left": {
+                                            "value": {
+                                              "value": "20"
+                                            }
+                                          },
+                                          "bottom_right": {
+                                            "value": {
+                                              "value": "20"
+                                            }
+                                          },
+                                          "top_left": {
+                                            "value": {
+                                              "value": "20"
+                                            }
+                                          },
+                                          "top_right": {
+                                            "value": {
+                                              "value": "20"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "button_type": {
+                                    "value": {
+                                      "value": "1"
+                                    }
+                                  },
+                                  "content_description": {
+                                    "value": "点击取消收藏"
+                                  },
+                                  "element_id": {
+                                    "value": "top_right_collect"
+                                  },
+                                  "icon": {
+                                    "members": {
+                                      "native_model": {
+                                        "members": {
+                                          "height": {
+                                            "value": {
+                                              "value": "24"
+                                            }
+                                          },
+                                          "resource_name": {
+                                            "value": "resource_top_right_collected_dark_icon"
+                                          },
+                                          "type": {},
+                                          "width": {
+                                            "value": {
+                                              "value": "24"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "show_first_screen": {
+                                    "value": true
+                                  },
+                                  "status_id": {
+                                    "value": "status_collected"
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "status_id": {
+                            "value": "status_collect"
+                          }
+                        }
+                      },
+                      {
+                        "members": {
+                          "action": {
+                            "members": {
+                              "id": {
+                                "value": "action_share"
+                              }
+                            }
+                          },
+                          "background": {
+                            "members": {
+                              "background_color": {
+                                "value": "#57292929"
+                              },
+                              "padding": {
+                                "members": {
+                                  "bottom": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "left": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "right": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "top": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  }
+                                }
+                              },
+                              "radius": {
+                                "members": {
+                                  "bottom_left": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "bottom_right": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "top_left": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "top_right": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "button_type": {
+                            "value": {
+                              "value": "1"
+                            }
+                          },
+                          "content_description": {
+                            "value": "分享"
+                          },
+                          "element_id": {
+                            "value": "top_right_share"
+                          },
+                          "icon": {
+                            "members": {
+                              "native_model": {
+                                "members": {
+                                  "height": {
+                                    "value": {
+                                      "value": "24"
+                                    }
+                                  },
+                                  "resource_name": {
+                                    "value": "resource_top_right_share_dark_icon"
+                                  },
+                                  "type": {},
+                                  "width": {
+                                    "value": {
+                                      "value": "24"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "show_first_screen": {
+                            "value": true
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  "scrollable": {
+                    "value": false
+                  },
+                  "space": {
+                    "value": {
+                      "value": "7"
+                    }
+                  }
+                }
+              },
+              "light_elements": {
+                "members": {
+                  "button_list": {
+                    "elements": [
+                      {
+                        "members": {
+                          "action": {
+                            "members": {
+                              "id": {
+                                "value": "action_collect"
+                              },
+                              "ref_id": {
+                                "value": "ref_light_icon"
+                              }
+                            }
+                          },
+                          "background": {
+                            "members": {
+                              "padding": {
+                                "members": {
+                                  "bottom": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "left": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "right": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "top": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  }
+                                }
+                              },
+                              "radius": {
+                                "members": {
+                                  "bottom_left": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "bottom_right": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "top_left": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "top_right": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "button_type": {
+                            "value": {
+                              "value": "1"
+                            }
+                          },
+                          "content_description": {
+                            "value": "点击收藏"
+                          },
+                          "element_id": {
+                            "value": "top_right_collect"
+                          },
+                          "icon": {
+                            "members": {
+                              "native_model": {
+                                "members": {
+                                  "height": {
+                                    "value": {
+                                      "value": "24"
+                                    }
+                                  },
+                                  "resource_name": {
+                                    "value": "resource_top_right_collect_icon"
+                                  },
+                                  "type": {},
+                                  "width": {
+                                    "value": {
+                                      "value": "24"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "show_first_screen": {
+                            "value": true
+                          },
+                          "states": {
+                            "elements": [
+                              {
+                                "members": {
+                                  "action": {
+                                    "members": {
+                                      "id": {
+                                        "value": "action_collect"
+                                      },
+                                      "ref_id": {
+                                        "value": "ref_light_icon"
+                                      }
+                                    }
+                                  },
+                                  "background": {
+                                    "members": {
+                                      "padding": {
+                                        "members": {
+                                          "bottom": {
+                                            "value": {
+                                              "value": "7"
+                                            }
+                                          },
+                                          "left": {
+                                            "value": {
+                                              "value": "7"
+                                            }
+                                          },
+                                          "right": {
+                                            "value": {
+                                              "value": "7"
+                                            }
+                                          },
+                                          "top": {
+                                            "value": {
+                                              "value": "7"
+                                            }
+                                          }
+                                        }
+                                      },
+                                      "radius": {
+                                        "members": {
+                                          "bottom_left": {
+                                            "value": {
+                                              "value": "20"
+                                            }
+                                          },
+                                          "bottom_right": {
+                                            "value": {
+                                              "value": "20"
+                                            }
+                                          },
+                                          "top_left": {
+                                            "value": {
+                                              "value": "20"
+                                            }
+                                          },
+                                          "top_right": {
+                                            "value": {
+                                              "value": "20"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "button_type": {
+                                    "value": {
+                                      "value": "1"
+                                    }
+                                  },
+                                  "content_description": {
+                                    "value": "点击取消收藏"
+                                  },
+                                  "element_id": {
+                                    "value": "top_right_collect"
+                                  },
+                                  "icon": {
+                                    "members": {
+                                      "native_model": {
+                                        "members": {
+                                          "height": {
+                                            "value": {
+                                              "value": "24"
+                                            }
+                                          },
+                                          "resource_name": {
+                                            "value": "resource_top_right_collected_icon"
+                                          },
+                                          "type": {},
+                                          "width": {
+                                            "value": {
+                                              "value": "24"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "show_first_screen": {
+                                    "value": true
+                                  },
+                                  "status_id": {
+                                    "value": "status_collected"
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "status_id": {
+                            "value": "status_collect"
+                          }
+                        }
+                      },
+                      {
+                        "members": {
+                          "action": {
+                            "members": {
+                              "id": {
+                                "value": "action_share"
+                              }
+                            }
+                          },
+                          "background": {
+                            "members": {
+                              "padding": {
+                                "members": {
+                                  "bottom": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "left": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "right": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  },
+                                  "top": {
+                                    "value": {
+                                      "value": "7"
+                                    }
+                                  }
+                                }
+                              },
+                              "radius": {
+                                "members": {
+                                  "bottom_left": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "bottom_right": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "top_left": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  },
+                                  "top_right": {
+                                    "value": {
+                                      "value": "20"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "button_type": {
+                            "value": {
+                              "value": "1"
+                            }
+                          },
+                          "content_description": {
+                            "value": "分享"
+                          },
+                          "element_id": {
+                            "value": "top_right_im"
+                          },
+                          "icon": {
+                            "members": {
+                              "native_model": {
+                                "members": {
+                                  "height": {
+                                    "value": {
+                                      "value": "24"
+                                    }
+                                  },
+                                  "resource_name": {
+                                    "value": "resource_top_right_share_icon"
+                                  },
+                                  "type": {},
+                                  "width": {
+                                    "value": {
+                                      "value": "24"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "show_first_screen": {
+                            "value": true
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  "scrollable": {
+                    "value": false
+                  },
+                  "space": {
+                    "value": {
+                      "value": "7"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "meta": {
+            "members": {
+              "collect": {
+                "members": {
+                  "collected": {
+                    "value": false
+                  },
+                  "product_min_price": {
+                    "value": {
+                      "value": "20200"
+                    }
+                  }
+                }
+              },
+              "share": {
+                "members": {
+                  "detail_url_without_scene_id": {
+                    "value": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?alkey=1128_99514375927_0_3623922725166447534_010&c_biz_combo=8&detail_schema=sslocal%3A%2F%2Fec_goods_detail%3Fpromotion_id%3D3623922725166447534%26product_id%3D3623922725166447534%26promotion_id%3D3623922725166447534%26request_additions%3D%257B%2522from_internal_feed%2522%253A%2522true%2522%252C%2522cps_track%2522%253A%2522%2522%252C%2522marketing_channel%2522%253A%2522%2522%257D%26item_id%3D0%26kol_id%3D99514375927%26enter_from%3Dcopy%26source_page%3Dcopy%26meta_params%3D%257B%2522entrance_info%2522%253A%2522%257B%255C%2522carrier_source%255C%2522%253A%255C%2522search_ecommerce%255C%2522%252C%255C%2522source_method%255C%2522%253A%255C%2522product_card%255C%2522%252C%255C%2522search_id%255C%2522%253A%255C%252220231027115647D834AFAD97C79D9E009A%255C%2522%252C%255C%2522product_activity_type%255C%2522%253A%255C%2522nonactivity%255C%2522%252C%255C%2522EVENT_ORIGIN_FEATURE%255C%2522%253A%255C%2522TEMAI%255C%2522%252C%255C%2522search_params%255C%2522%253A%257B%255C%2522search_id%255C%2522%253A%255C%252220231027115647D834AFAD97C79D9E009A%255C%2522%252C%255C%2522search_result_id%255C%2522%253A%255C%25223627799996457432165%255C%2522%257D%252C%255C%2522search_keyword%255C%2522%253A%255C%2522%25E6%25AF%259B%25E5%25B7%25BE%255C%2522%252C%255C%2522ecom_scene_id%255C%2522%253A%255C%25221082%255C%2522%252C%255C%2522ecom_group_type%255C%2522%253A%255C%2522%255C%2522%252C%255C%2522card_status%255C%2522%253A%255C%2522%255C%2522%252C%255C%2522module_label%255C%2522%253A%255C%2522%255C%2522%252C%255C%2522ecom_icon%255C%2522%253A%255C%2522%255C%2522%257D%2522%257D%26ec_s%3D127ad48e5b125667e07c71eee6ec392db4b634c25ba4_L0O%25252FoCviNDNAEgm%25252F%25252FNwNf5%25252BdlFwOKfW5uEfK2hZBxqGiBn0jfVuoi6B8iARg6X9G&did=MS4wLjACAAAADTOtEwhHRZ9f6LKU2qA3wlEiYDZ_Ojc5O89DN4yjQbxJBDobjNf0NEOTaOjx30Rv&entrance_info=%7B%7D&from_link=1&goods_detail=%7B%22title%22%3A%22%E3%80%90%E5%86%B0%E6%84%9F%E9%80%9F%E5%B9%B2%E7%BB%8F%E5%85%B8logo%E7%9F%AD%E8%A2%96%E3%80%91%E5%8D%A1%E7%89%B9%E4%BC%91%E9%97%B2%E7%AE%80%E7%BA%A6%E9%80%8F%E6%B0%94%E5%A4%8F%E5%AD%A3T%E6%81%A4CM2TST26831%22%2C%22sales%22%3A4491%2C%22img%22%3A%7B%22uri%22%3A%22ecom-shop-material%2FCetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000%22%2C%22url_list%22%3A%5B%22https%3A%2F%2Fp6-item.ecombdimg.com%2Fimg%2Fecom-shop-material%2FCetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000~tplv-5mmsx3fupr-image.png%22%2C%22https%3A%2F%2Fp3-item.ecombdimg.com%2Fimg%2Fecom-shop-material%2FCetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000~tplv-5mmsx3fupr-image.png%22%5D%2C%22width%22%3A100%2C%22height%22%3A100%7D%2C%22min_price%22%3A20200%2C%22max_price%22%3A20200%7D&h5_origin_type=detail_share&id=3623922725166447534&origin_id=99514375927_3623922725166447534&origin_type=3002070010&sec_author_id=MS4wLjABAAAA2I9NdgAKZrz9e0tLm1csyDMNqLESPDm34TdYYqXe8-I&u_code=i5721c33&use_link_command=1&with_sec_did=1"
+                  },
+                  "first_image": {
+                    "members": {
+                      "height": {
+                        "value": {
+                          "value": "1080"
+                        }
+                      },
+                      "uri": {
+                        "value": "ecom-shop-material/CetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000"
+                      },
+                      "url_list": {
+                        "elements": [
+                          {
+                            "value": "https://p3-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp"
+                          },
+                          {
+                            "value": "https://p6-item.ecombdimg.com/img/ecom-shop-material/CetHgQNE_m_2afbb2eec6a8e435680006592b126ede_sx_252756_www1000-1000~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp"
+                          }
+                        ]
+                      },
+                      "width": {
+                        "value": {
+                          "value": "1080"
+                        }
+                      }
+                    }
+                  },
+                  "kol_id": {
+                    "value": "99514375927"
+                  },
+                  "meta_param_without_scene_id": {
+                    "value": "{\"page_type\":null,\"enter_from\":\"\",\"is_ad_traffic\":false,\"is_star_atlas\":false,\"entrance_info\":\"{\\\"EVENT_ORIGIN_FEATURE\\\":\\\"TEMAI\\\",\\\"card_status\\\":\\\"\\\",\\\"carrier_source\\\":\\\"search_ecommerce\\\",\\\"ecom_group_type\\\":\\\"\\\",\\\"ecom_icon\\\":\\\"\\\",\\\"module_label\\\":\\\"\\\",\\\"product_activity_type\\\":\\\"nonactivity\\\",\\\"search_id\\\":\\\"20231027115647D834AFAD97C79D9E009A\\\",\\\"search_keyword\\\":\\\"毛巾\\\",\\\"search_params\\\":{\\\"search_id\\\":\\\"20231027115647D834AFAD97C79D9E009A\\\",\\\"search_result_id\\\":\\\"3627799996457432165\\\"},\\\"source_method\\\":\\\"product_card\\\"}\",\"live_room_id\":\"\",\"need_shop_category\":false,\"request_from\":\"\",\"shop_ad_data\":\"\",\"small_video_id\":\"\",\"AdDataStruct\":null,\"personal_extra\":null}"
+                  },
+                  "million_discount": {
+                    "value": false
+                  },
+                  "share_button_animation": {
+                    "value": {
+                      "value": "0"
+                    }
+                  },
+                  "share_template": {
+                    "value": "7.69 03/09 m@q.RX SlC:/ 【抖音商城】%s 【冰感速干经典logo短袖】卡特休闲简约透气夏季T恤CM2TST26831\n长按复制此条消息，打开抖音搜索，查看商品详情！"
+                  },
+                  "title": {
+                    "value": "【冰感速干经典logo短袖】卡特休闲简约透气夏季T恤CM2TST26831"
+                  },
+                  "visitor_count": {
+                    "value": {
+                      "value": "24379"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "status": {
+      "LIZ": 0,
+      "LIZIZ": false,
+      "LIZJ": false,
+      "LIZLLL": false
+    },
+    "statusCode": 0,
+    "statusMsg": "",
+    "timestamp": 0
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/douyin-e-commerce-api-e5f8"
+}
